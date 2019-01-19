@@ -1,0 +1,90 @@
+preset: CARGO_NODE_INPUT
+'41':
+  ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §bChannel
+    lore:
+    - ''
+    - §e> Click to decrease the Channel ID by 1
+    internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSlhYYBw9Gl1kjMBTB9gZYlVrUIDjxd+0HzuOOL+89E8CEt+Wh0/q7OW0rLQ14Zht4xzbNbUJ9yyMIW9RHjlUQVFie75A8lxtvSz5MMB/TWTZtJS8DMFp5a7tGXkwAeDLgNc11J+FX9jMk1nu0Wc902TP3wckS6Yips8eOaV+Mmcvqh5+O3Hnv/2udNs8czclsL45xV9QpmpOFltMFLuvVVSiGo0RXYnKgoeI4yhjl9qrn99iJJjscqFRFyUIHiT6Ir/geZWIvJiPKk4AGaod48umENr9xVf6EqsQ8CxU7Yn8bD4cABryEeS1hMF6OT42cVwXAH2KY4HIuAQAA
+    skull-owner: CSCoreLib
+41_extra:
+  custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI1OTliZDk4NjY1OWI4Y2UyYzQ5ODg1MjVjOTRlMTlkZGQzOWZhZDA4YTM4Mjg0YTE5N2YxYjcwNjc1YWNjIn19fQ==
+  custom-skullOwner: CSCoreLib
+'42':
+  ==: org.bukkit.inventory.ItemStack
+  type: WOOL
+  damage: 1
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§bChannel ID: §32'
+'43':
+  ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: §bChannel
+    lore:
+    - ''
+    - §e> Click to increase the Channel ID by 1
+    internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JDJc6CxeNCg7hUi+lzuwEx8I4owahCs/VByzLLr9zzqcD6PCyPrZSftTnQyW5Bo9kD6/YRbbLx9hwnDEynMIqDIzzveHllm0eCowQcnTQh9OF103FryPQGn5v2ppfdQB40OA528mWwy/vQpNtS3O/DWXREW/Ym7UpUyIub+SUdfmUeEQNfvHuRR3+17rN7suV1A5Ldlq2ucrMyF5JvlhZhfr8oX2o0s38RvulzYL5LZmFMgn8MhZlyQQTtP++U0TNNPBFopKBxUPnV3GfqXRWHqk4ujHyBUXEZQGTyWaOyMnCh+VkAqDBU7JTHEbT9fRc86jKAf4AcDw8Ai4BAAA=
+    skull-owner: CSCoreLib
+43_extra:
+  custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzJmOTEwYzQ3ZGEwNDJlNGFhMjhhZjZjYzgxY2Y0OGFjNmNhZjM3ZGFiMzVmODhkYjk5M2FjY2I5ZGZlNTE2In19fQ==
+  custom-skullOwner: CSCoreLib
+'15':
+  ==: org.bukkit.inventory.ItemStack
+  type: WOOL
+  damage: 15
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Type: §8Blacklist'
+    lore:
+    - ''
+    - §e> Click to change it to Whitelist
+'16':
+  ==: org.bukkit.inventory.ItemStack
+  type: STONE_SWORD
+  damage: 20
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Include Sub-IDs/Durability: §4✘'
+    lore:
+    - ''
+    - §e> Click to toggle whether the Durability has to match
+'24':
+  ==: org.bukkit.inventory.ItemStack
+  type: SKULL_ITEM
+  damage: 3
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    display-name: '§7Round-Robin Mode: §4✘'
+    lore:
+    - ''
+    - §e> Click to enable Round Robin Mode
+    - §e(Items will be equally distributed on the Channel)
+    internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JIDdZNmDiEBkrKpfZ4TAExkENQiPzVH3EsuzuOznn0wF0+DhcRim/+1vdSq7BK67g03NsZDPPNdiKeYZdWr5R1qva4LXroVXtMLb0ddDn0533Q8sfC9AG/hzGnj90AHjR4D0t5cjhl08RonmDqjySbMLuzMcDkjss7h6+ptM5wC7uZr/5creT/691hjJzZGFFDb3ux3OXoq2VSL5JTNadfmjIbCqilixPJj0yk4jYodnaoh22dkcqYpVeYlWgQiUXKrBdiP1EQiKJoC1RxURU1RRZImg4b7FWsWJtnZs+gAZvpOw4LIJDcOv5tj0D/AHNeyn+KgEAAA==
+    skull-owner: CSCoreLib
+24_extra:
+  custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+  custom-skullOwner: CSCoreLib
+'25':
+  ==: org.bukkit.inventory.ItemStack
+  type: EMPTY_MAP
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: '§7Include Lore: §2✔'
+    lore:
+    - ''
+    - §e> Click to toggle whether the Lore has to match

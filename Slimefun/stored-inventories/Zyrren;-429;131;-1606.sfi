@@ -1,0 +1,9 @@
+preset: ELECTRIC_DUST_WASHER
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: FLINT
+  amount: 10
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  type: CLAY_BALL
+  amount: 12

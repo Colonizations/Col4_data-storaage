@@ -1,0 +1,5 @@
+preset: AUTO_DISENCHANTER
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: BOOK
+  amount: 51

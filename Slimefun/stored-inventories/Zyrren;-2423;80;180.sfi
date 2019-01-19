@@ -1,0 +1,9 @@
+preset: BIO_REACTOR
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: PUMPKIN
+  amount: 64
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  type: PUMPKIN
+  amount: 64

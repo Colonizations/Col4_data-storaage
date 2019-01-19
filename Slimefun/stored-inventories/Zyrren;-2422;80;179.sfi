@@ -1,0 +1,4 @@
+preset: LAVA_GENERATOR
+'24':
+  ==: org.bukkit.inventory.ItemStack
+  type: BUCKET

@@ -1,0 +1,11 @@
+preset: COAL_GENERATOR
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: COAL
+  damage: 1
+  amount: 64
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  type: COAL
+  damage: 1
+  amount: 64

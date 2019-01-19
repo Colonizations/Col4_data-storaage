@@ -1,0 +1,9 @@
+preset: ELECTRIC_DUST_WASHER_2
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: SULPHUR
+  amount: 53
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §6Sifted Ore

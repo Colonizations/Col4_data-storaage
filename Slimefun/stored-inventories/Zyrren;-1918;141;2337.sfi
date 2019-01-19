@@ -1,0 +1,9 @@
+preset: ELECTRIC_GOLD_PAN_2
+'19':
+  ==: org.bukkit.inventory.ItemStack
+  type: GRAVEL
+  amount: 57
+'20':
+  ==: org.bukkit.inventory.ItemStack
+  type: GRAVEL
+  amount: 64

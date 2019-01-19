@@ -1,0 +1,9 @@
+preset: ELECTRIC_GOLD_PAN
+'24':
+  ==: org.bukkit.inventory.ItemStack
+  type: SULPHUR
+  amount: 41
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §6Sifted Ore
