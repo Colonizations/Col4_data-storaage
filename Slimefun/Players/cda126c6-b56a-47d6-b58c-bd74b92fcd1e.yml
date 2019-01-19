@@ -1,0 +1,155 @@
+researches:
+  '1': true
+  '105': true
+  '54': true
+  '35': true
+  '30': true
+  '18': true
+  '6': true
+  '38': true
+  '8': true
+  '33': true
+  '9': true
+  '26': true
+  '107': true
+  '132': true
+  '129': true
+  '99': true
+  '92': true
+  '53': true
+  '50': true
+  '133': true
+  '42': true
+  '90': true
+  '37': true
+  '72': true
+  '55': true
+  '151': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §eLarge Backpack
+          lore:
+          - ''
+          - '§7Size: §e27'
+          - '§7ID: cda126c6-b56a-47d6-b58c-bd74b92fcd1e#0'
+          - ''
+          - §7§eRight Click§7 to open
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1cSqFLlqCKzRMpUhtJbhTJbixoEM/hV+4nzuOPLe88EMOFte2q1/qwvpdTCgGdSwHtRYGeMS2S5Ypxbo4ldWBOPc8vjroNFOcox4iaYj+kq6kaK2wCMRvw0bS1uJgA8GfCact0K+BVdaLP90S72oc47gh+cbG0dE3Udk3PaHeYEk+rhl1O86rx/rdvwnauzYXhk53V7qFJ7Ndxosdw4efV1p/5MZSrQVBWSJosu25GO+RvJFD1RFCiWzHS2CyqqAhX1oWL+GsV+cGIfUR8n38MMpTLqCaL9FGVJ1LNqIcu94wEY8EJ5JWAw384vtVjJA8AfP7G93ioBAAA=
+          skull-owner: CSCoreLib
+      1_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjYjFlNjdiNTEyYWIyZDRiZjNkN2FjZTBlYWFmNjFjMzJjZDQ2ODFkZGMzOTg3Y2ViMzI2NzA2YTMzZmEifX19
+        custom-skullOwner: CSCoreLib
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+        amount: 49
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eInfernal Dust
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Sometimes dropped from blazes.
+          - §7Looting enchantment may help.
+          - §7Combine this with iron or gold dust.
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViymrhUSGeCqbqWQmZeWWpSXmJNSWlwCdBAAs4+ezawAAAA=
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 43
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §fMusket Ball§b
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §fMinie Ball§f
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: SHIELD
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 58
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 15
+        amount: 44
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 358
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 15
+        amount: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fBlunderbuss Shot§f
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Solidified Clear Resin
+          lore:
+          - §r§aAll natural, no synthetic compounds added!
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+        amount: 63
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eInfernal Dust
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Sometimes dropped from blazes.
+          - §7Looting enchantment may help.
+          - §7Combine this with iron or gold dust.
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViymrhUSGeCqbqWQmZeWWpSXmJNSWlwCdBAAs4+ezawAAAA=

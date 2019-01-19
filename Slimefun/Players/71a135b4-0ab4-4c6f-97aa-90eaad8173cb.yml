@@ -1,0 +1,193 @@
+researches:
+  '0': true
+  '92': true
+  '125': true
+  '6': true
+  '31': true
+  '2': true
+  '1': true
+  '32': true
+  '10': true
+  '30': true
+  '35': true
+  '25': true
+  '18': true
+  '104': true
+  '129': true
+  '86': true
+  '69': true
+  '64': true
+  '8': true
+  '58': true
+  '51': true
+  '29': true
+  '33': true
+  '54': true
+  '4': true
+  '50': true
+  '60': true
+  '43': true
+  '34': true
+  '53': true
+  '132': true
+  '13': true
+  '19': true
+  '38': true
+  '20': true
+  '79': true
+  '99': true
+  '107': true
+  '42': true
+  '138': true
+  '133': true
+  '134': true
+  '15': true
+  '161': true
+  '39': true
+  '139': true
+  '135': true
+  '5': true
+  '12': true
+  '16': true
+  '137': true
+  '21': true
+  '17': true
+  '14': true
+  '7': true
+  '100': true
+  '103': true
+  '9': true
+  '24': true
+  '26': true
+  '96': true
+  '36': true
+  '105': true
+  '90': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE
+        amount: 19
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bPrismarine
+          lore:
+          - §fCrafted through ancient techniques
+          - §fUsed in buildings and structures
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: PRISMARINE
+        amount: 48
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: SEA_LANTERN
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bSea Lantern
+          lore:
+          - §fA beacon of hope in the dark void
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 8
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: SHEARS
+        damage: 2
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: FURNACE
+        amount: 7
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 77
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAND
+        amount: 22
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aTea Leaf
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZk5DHooguDqQ5xoCqgzI7HEB4zahAM+FX9xLLs8uScowKo8HFseiF+2mtRCa7AK8nhMzULO7VxoiFsLzQTF7mWZou5hk0jwXpWGLq9UEGdphtvu4rfZ6B0fOj6lt9VAHhR4D1KRM/hl48uYucS5WdXZCPBEwdHJHxS32xyicbUIZjIyW9XeDcu/7VWl5wsERtuyS77PpUR2hkHwbeHeSbDBw3CwdtQM673Og0I8vTviga5ZAHV6ZoJT4Yjqw8NfcZPtvHq+BRa7LSfxzJq2Ho1UEmQH5TN9Al/E1V0dJfFGX0BKPDmJZLDzDk615bvqhTgD6YnwBwqAQAA
+          skull-owner: CSCoreLib
+      15_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTUxNGM4YjQ2MTI0N2FiMTdmZTM2MDZlNmUyZjRkMzYzZGNjYWU5ZWQ1YmVkZDAxMmI0OThkN2FlOGViMyJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR
+        amount: 44
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: RAW_FISH
+        damage: 3
+        amount: 2
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        damage: 1
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eWet Sponge
+          lore:
+          - §fClearly the result of being under water for too long
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: SPONGE
+        damage: 1
+        amount: 2
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: MAGMA
+        amount: 12
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cBroken Spawner
+          lore:
+          - '§7Type: §bBlaze'
+          - ''
+          - §cFractured, must be repaired in an Ancient Altar
+          blockMaterial: MOB_SPAWNER

@@ -1,0 +1,499 @@
+researches:
+  '7': true
+  '10': true
+  '14': true
+  '8': true
+  '33': true
+  '0': true
+  '53': true
+  '6': true
+  '30': true
+  '1': true
+  '2': true
+  '86': true
+  '15': true
+  '11': true
+  '35': true
+  '60': true
+  '4': true
+  '9': true
+  '39': true
+  '25': true
+  '101': true
+  '92': true
+  '99': true
+  '55': true
+  '18': true
+  '41': true
+  '38': true
+  '42': true
+  '13': true
+  '50': true
+  '107': true
+  '132': true
+  '56': true
+  '96': true
+  '51': true
+  '67': true
+  '29': true
+  '16': true
+  '19': true
+  '46': true
+  '105': true
+  '54': true
+  '45': true
+  '52': true
+  '31': true
+  '74': true
+  '87': true
+  '79': true
+  '40': true
+  '5': true
+  '12': true
+  '155': true
+  '156': true
+  '58': true
+  '151': true
+  '90': true
+  '119': true
+  '100': true
+  '43': true
+  '34': true
+  '32': true
+  '72': true
+  '143': true
+  '94': true
+  '103': true
+  '93': true
+  '22': true
+  '127': true
+  '36': true
+  '26': true
+  '23': true
+  '62': true
+  '228': true
+  '229': true
+  '145': true
+  '117': true
+  '116': true
+  '115': true
+  '123': true
+  '17': true
+  '20': true
+  '21': true
+  '24': true
+  '27': true
+  '28': true
+  '37': true
+  '47': true
+  '48': true
+  '57': true
+  '59': true
+  '61': true
+  '63': true
+  '64': true
+  '65': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '73': true
+  '75': true
+  '76': true
+  '80': true
+  '81': true
+  '84': true
+  '95': true
+  '97': true
+  '98': true
+  '106': true
+  '108': true
+  '112': true
+  '118': true
+  '120': true
+  '124': true
+  '126': true
+  '129': true
+  '130': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '144': true
+  '146': true
+  '149': true
+  '150': true
+  '152': true
+  '157': true
+  '158': true
+  '159': true
+  '161': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '185': true
+  '188': true
+  '190': true
+  '198': true
+  '205': true
+  '207': true
+  '208': true
+  '209': true
+  '216': true
+  '220': true
+  '227': true
+  '230': true
+  '231': true
+backpacks:
+  '0':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 10
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Solidified Love
+          lore:
+          - §aTaste the love!
+          - §aGrants a regeneration bonus
+          - §aMay be used as a dye during emergencies!
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        damage: 15
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          display-name: Cake Banner
+          patterns:
+          - ==: Pattern
+            color: RED
+            pattern: bri
+          - ==: Pattern
+            color: BROWN
+            pattern: hhb
+          - ==: Pattern
+            color: PINK
+            pattern: ts
+          - ==: Pattern
+            color: PINK
+            pattern: bs
+          - ==: Pattern
+            color: PINK
+            pattern: bo
+          - ==: Pattern
+            color: PINK
+            pattern: bo
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §aSlimefun Guide §7(Chest GUI)
+          lore:
+          - ''
+          - §eRight Click §8⇨ §7Browse Items
+          - §eShift + Right Click §8⇨ §7Open Settings / Credits
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        damage: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 143
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: FLINT_AND_STEEL
+        damage: 10
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: ICE
+        amount: 30
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 52
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+  '1':
+    size: 27
+    contents:
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64

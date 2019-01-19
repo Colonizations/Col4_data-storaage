@@ -1,0 +1,495 @@
+researches:
+  '0': true
+  '7': true
+  '30': true
+  '6': true
+  '1': true
+  '105': true
+  '54': true
+  '18': true
+  '35': true
+  '9': true
+  '101': true
+  '79': true
+  '41': true
+  '55': true
+  '42': true
+  '38': true
+  '50': true
+  '39': true
+  '53': true
+  '19': true
+  '65': true
+  '86': true
+  '21': true
+  '2': true
+  '4': true
+  '5': true
+  '8': true
+  '10': true
+  '11': true
+  '12': true
+  '13': true
+  '14': true
+  '15': true
+  '16': true
+  '17': true
+  '20': true
+  '22': true
+  '23': true
+  '24': true
+  '25': true
+  '27': true
+  '28': true
+  '29': true
+  '31': true
+  '32': true
+  '33': true
+  '34': true
+  '36': true
+  '37': true
+  '43': true
+  '45': true
+  '46': true
+  '47': true
+  '48': true
+  '51': true
+  '52': true
+  '56': true
+  '57': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '72': true
+  '73': true
+  '74': true
+  '75': true
+  '76': true
+  '80': true
+  '81': true
+  '84': true
+  '87': true
+  '90': true
+  '92': true
+  '94': true
+  '95': true
+  '96': true
+  '97': true
+  '98': true
+  '99': true
+  '106': true
+  '107': true
+  '108': true
+  '112': true
+  '115': true
+  '116': true
+  '117': true
+  '118': true
+  '119': true
+  '120': true
+  '124': true
+  '126': true
+  '127': true
+  '129': true
+  '130': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '143': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '150': true
+  '151': true
+  '152': true
+  '155': true
+  '156': true
+  '157': true
+  '158': true
+  '159': true
+  '161': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '185': true
+  '188': true
+  '190': true
+  '198': true
+  '205': true
+  '207': true
+  '208': true
+  '209': true
+  '216': true
+  '220': true
+  '227': true
+  '228': true
+  '229': true
+  '230': true
+  '231': true
+  '26': true
+  '191': true
+backpacks:
+  '0':
+    size: 18
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Crushed Ore
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 5
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Lava Crystal
+          internal: H4sIAAAAAAAAAE2LwW6CQBRFX5s2QdLP6JZkAMWwcGGgrWNkLIogs2PgUcBBDUIrfFc/sCy7uIuTe44KoMLL/tRJ+dlc8lKiAo80g9fMsm1CiKlhnhNtalqWJjAztBSTaS6Enoh5ooI6Rlds2hJvE1BavLddgzcVAB4UeA4T2SH8Yr8m/FiQ7LiWaU+tkYM9kVtaXef0HPbCoRatx3+1tDa9/c+dtUk0k7G5LvjZ70Qdko25k7ja6Wl9+I4DVnC3kDz4ItsoPPFqSXjkz+KAGrHxNniDf+dV/OMNrORuavAPVjGXDt7ojitGKtlwMFiQ6l5Ee2a8V/Ss27m/WAAo8MSSGmHi7J1Lg5tSAPwBHZBwey4BAAA=
+          skull-owner: CSCoreLib
+      6_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNhZDhlZTg0OWVkZjA0ZWQ5YTI2Y2EzMzQxZjYwMzNiZDc2ZGNjNDIzMWVkMWVhNjNiNzU2NTc1MWIyN2FjIn19fQ==
+        custom-skullOwner: CSCoreLib
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§5§lEnder§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 128
+              BLUE: 128
+              GREEN: 0
+            fade-colors: &id001 []
+            type: BURST
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE_DUST
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_EXPLOSIONS: 4
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: CHORUS_FLOWER
+        amount: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §aTalisman of the Magician
+          lore:
+          - ''
+          - §rWhile you have this Talisman
+          - §rin your Inventory it gives
+          - §ryou a 80% Luck Bonus on Enchanting
+          - §rYou will sometimes get an Extra Enchantment
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCarrot Cake
+          lore:
+          - ''
+          - §7§oRestores §b§o6.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2L0W6CMBhG/y1bgmSPsVsSKLPKJQGjJRYmVqbcgZQJtGoQHPWp9ojjcpfnO9/RAXR42za9EJ/tpawE1+CZFPCOCwvl88w2uMOx8XEssTHPTWwgVDjlzJ6XyEQ66GN05W1X8dsEtI4PXd/ymw4ATxq8JpnoOfxyFZjp/mQW+0AcFcEjs60pIlJfZ+ScqNwjmMjRr1y8Vs6/77TLvqbiYAen9Lzpc5mYazsWfBVbR7m7p3Uz0MfBoiyW9LFRKSvqkJGfaLkYQp+okLnowL5RWC+saJnIyI8bKsfdbxSt3bEVIloGMqzdB5W7IWK0KveWA6DBS5hJDhNv611avq5ygD8Wl1ZEKgEAAA==
+          skull-owner: CSCoreLib
+      1_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkxMzY1MTRmMzQyZTdjNTIwOGExNDIyNTA2YTg2NjE1OGVmODRkMmIyNDkyMjAxMzllOGJmNjAzMmUxOTMifX19
+        custom-skullOwner: CSCoreLib
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: RECORD_6
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 1
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§c§lEarth§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 255
+              BLUE: 0
+              GREEN: 165
+            fade-colors: *id001
+            type: BURST
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§4§lFire§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 255
+              BLUE: 0
+              GREEN: 0
+            fade-colors: *id001
+            type: BURST
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_TORCH_ON
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEASH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnder Leash
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Capture and store one peaceful animal
+          - '§7Right-click: §rcapture/release animal'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCUayuFRIZ4KpupZCal5JalAO0KgPoHAAJ+yUgqgAAAA==
+  '1':
+    size: 27
+    contents:
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rCarrot Cake
+          lore:
+          - ''
+          - §7§oRestores §b§o6.0 §7§oHunger
+          internal: H4sIAAAAAAAAAE2L0W6CMBhG/y1bgmSPsVsSKLPKJQGjJRYmVqbcgZQJtGoQHPWp9ojjcpfnO9/RAXR42za9EJ/tpawE1+CZFPCOCwvl88w2uMOx8XEssTHPTWwgVDjlzJ6XyEQ66GN05W1X8dsEtI4PXd/ymw4ATxq8JpnoOfxyFZjp/mQW+0AcFcEjs60pIlJfZ+ScqNwjmMjRr1y8Vs6/77TLvqbiYAen9Lzpc5mYazsWfBVbR7m7p3Uz0MfBoiyW9LFRKSvqkJGfaLkYQp+okLnowL5RWC+saJnIyI8bKsfdbxSt3bEVIloGMqzdB5W7IWK0KveWA6DBS5hJDhNv611avq5ygD8Wl1ZEKgEAAA==
+          skull-owner: CSCoreLib
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: TORCH
+        amount: 20
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOWL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Pan
+          lore:
+          - §a§oCan get you all kinds of Goodies...
+          - ''
+          - §7§eRight Click§7 to pan various Stuff out of Gravel
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+        damage: 18
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: SHEARS
+        damage: 197
+      4_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjkxMzY1MTRmMzQyZTdjNTIwOGExNDIyNTA2YTg2NjE1OGVmODRkMmIyNDkyMjAxMzllOGJmNjAzMmUxOTMifX19
+        custom-skullOwner: CSCoreLib
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_STEP
+        amount: 14
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        damage: 34
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eExplosive Pickaxe
+          lore:
+          - ''
+          - §rAllows you to mine a good bit
+          - §rof Blocks at once...
+          - ''
+          - §9Works with Fortune
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 35
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE_DUST
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eEnergized Gold Dust
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Smelt to get an energized gold ingot
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViytrhUSGeCqbqUA0pSeWZWakp6fk5JSWlwCdBUAKhj/lbEAAAA=
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG_2
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBSU
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Big Storage Unit
+          - §7Stores up to 128 stacks
+          - §7of a single item type
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAD1Qy0rDQBS9YintgBt15Wp2BcFQcTfgImmjDaRp0RYqIng7vU2HpjNlZuLKD/AH/Af3Lv0Hv8SPMKmPszpczoNzGUAbDkPvrZqXnoZmoZaKrGMAsNeA1nSa9IfG+ceX5Gj7MXhvQLs+pYTOv51MXs++gvMmNMONKbWHX7Tg4D8xww3BcU6arJIBeo9y3ccN5rQP7dGWLHpl9I+rsRN/LlEqnQt+G6dXzNLCeaMpohU+KVNawZPrbHQTM5SSnOsZ7a0pBB9PozTpsQLnVDjBu0yu0OZUseCP95UlWdcJPgx7gySLWbnNLS6oMtw/sKqoqhP8mXFuR90wmsk4rDGLLqIdCS8Z7qbWBYWR61q+xMIR65xO7sZxR/C5yuugamGpla8e+Q0n0qemZAEAAA==
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        amount: 5
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §aSlimefun Guide §7(Chest GUI)
+          lore:
+          - ''
+          - §eRight Click §8⇨ §7Browse Items
+          - §eShift + Right Click §8⇨ §7Open Settings / Credits
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: FLINT_AND_STEEL
+        damage: 28
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 2
+        amount: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: ROTTEN_FLESH
+        amount: 19
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 10
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 2

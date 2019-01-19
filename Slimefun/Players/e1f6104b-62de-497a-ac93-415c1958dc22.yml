@@ -1,0 +1,2801 @@
+researches:
+  '30': true
+  '6': true
+  '35': true
+  '38': true
+  '53': true
+  '92': true
+  '99': true
+  '18': true
+  '42': true
+  '132': true
+  '50': true
+  '95': true
+  '107': true
+  '133': true
+  '138': true
+  '134': true
+  '136': true
+  '120': true
+  '135': true
+  '79': true
+  '129': true
+  '139': true
+  '98': true
+  '59': true
+  '174': true
+  '137': true
+  '34': true
+  '115': true
+  '116': true
+  '21': true
+  '20': true
+  '1': true
+  '152': true
+  '146': true
+  '17': true
+  '16': true
+  '68': true
+  '48': true
+  '41': true
+  '28': true
+  '47': true
+  '55': true
+  '37': true
+  '45': true
+  '36': true
+  '19': true
+  '54': true
+  '90': true
+  '15': true
+  '190': true
+  '169': true
+  '173': true
+  '216': true
+  '72': true
+  '9': true
+  '8': true
+  '101': true
+  '124': true
+  '104': true
+  '94': true
+  '86': true
+  '151': true
+  '89': true
+  '4': true
+  '236': true
+  '61': true
+  '60': true
+  '130': true
+  '185': true
+  '119': true
+  '156': true
+  '155': true
+  '76': true
+  '75': true
+  '188': true
+  '80': true
+  '5': true
+  '81': true
+  '69': true
+  '172': true
+  '227': true
+  '13': true
+  '10': true
+  '14': true
+  '7': true
+  '100': true
+  '33': true
+  '193': true
+  '197': true
+  '0': true
+  '123': true
+  '125': true
+  '143': true
+  '105': true
+  '106': true
+  '108': true
+  '150': true
+  '32': true
+  '25': true
+  '57': true
+  '77': true
+  '118': true
+  '91': true
+  '126': true
+  '43': true
+  '73': true
+  '84': true
+  '164': true
+  '2': true
+  '12': true
+  '39': true
+  '31': true
+  '74': true
+  '46': true
+  '165': true
+  '215': true
+  '93': true
+  '40': true
+  '52': true
+  '87': true
+  '103': true
+  '127': true
+  '26': true
+  '85': true
+  '121': true
+  '71': true
+  '70': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '112': true
+  '24': true
+  '27': true
+  '122': true
+  '58': true
+  '11': true
+  '97': true
+  '161': true
+  '145': true
+  '198': true
+  '51': true
+  '29': true
+  '144': true
+  '22': true
+  '23': true
+  '56': true
+  '67': true
+  '96': true
+  '117': true
+  '142': true
+  '157': true
+  '158': true
+  '159': true
+  '163': true
+  '166': true
+  '167': true
+  '170': true
+  '171': true
+  '175': true
+  '176': true
+  '177': true
+  '178': true
+  '181': true
+  '184': true
+  '187': true
+  '192': true
+  '199': true
+  '205': true
+  '206': true
+  '207': true
+  '208': true
+  '209': true
+  '210': true
+  '217': true
+  '228': true
+  '229': true
+  '234': true
+  '220': true
+  '196': true
+  '160': true
+  '226': true
+  '168': true
+  '149': true
+  '230': true
+  '154': true
+  '203': true
+  '202': true
+  '204': true
+  '218': true
+  '221': true
+  '225': true
+  '235': true
+  '162': true
+  '212': true
+  '213': true
+  '214': true
+  '231': true
+  '219': true
+  '232': true
+  '186': true
+  '189': true
+  '179': true
+  '180': true
+  '182': true
+  '183': true
+  '191': true
+  '194': true
+  '195': true
+  '200': true
+  '211': true
+  '222': true
+  '223': true
+  '224': true
+  '233': true
+  '201': true
+backpacks:
+  '0':
+    size: 45
+    contents:
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+  '1':
+    size: 27
+    contents: {}
+  '2':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_BLOCK
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_BLOCK
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_BLOCK
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_BLOCK
+        amount: 5
+  '3':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: RED
+            pattern: cs
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        amount: 2
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        damage: 15
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: BLUE
+            pattern: rs
+          - ==: Pattern
+            color: BLUE
+            pattern: ls
+          - ==: Pattern
+            color: LIGHT_BLUE
+            pattern: tts
+          - ==: Pattern
+            color: YELLOW
+            pattern: flo
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        damage: 15
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: LIGHT_BLUE
+            pattern: flo
+          - ==: Pattern
+            color: YELLOW
+            pattern: rs
+          - ==: Pattern
+            color: YELLOW
+            pattern: ls
+          - ==: Pattern
+            color: GREEN
+            pattern: cs
+          - ==: Pattern
+            color: YELLOW
+            pattern: flo
+          - ==: Pattern
+            color: GREEN
+            pattern: tts
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: BANNER
+        damage: 15
+        meta:
+          ==: ItemMeta
+          meta-type: BANNER
+          patterns:
+          - ==: Pattern
+            color: BLACK
+            pattern: bs
+          - ==: Pattern
+            color: RED
+            pattern: ts
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: SOUL_SAND
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 1
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 1
+        amount: 51
+  '4':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 50
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: SLIME_BLOCK
+        amount: 2
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 5
+        amount: 60
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Infused Stone
+          lore:
+          - §r§eLighting up the way!
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: CAULDRON_ITEM
+        amount: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: ITEM_FRAME
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER
+        amount: 2
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: COOKED_BEEF
+        amount: 19
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §5Infused Hopper
+          lore:
+          - ''
+          - §rAutomatically picks up nearby Items in a 7x7x7
+          - §rRadius when placed.
+          blockMaterial: HOPPER
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §e10K Energy Cell
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Stores up to ⌁ 10000 SCU
+          - §7§f⌁ §a10000/10000 SCU
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVqyRnJFYlJ5qpWBoAAR6BlzqWiGRAa7qVgolqXnZIIPSK5NTc3KATgQAU+/zwb4AAAA=
+          color:
+            ==: Color
+            RED: 128
+            BLUE: 0
+            GREEN: 0
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §e10K Energy Cell
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Stores up to ⌁ 10000 SCU
+          - §7§f⌁ §a10000/10000 SCU
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVqyRnJFYlJ5qpWBoAAR6BlzqWiGRAa7qVgolqXnZIIPSK5NTc3KATgQAU+/zwb4AAAA=
+          color:
+            ==: Color
+            RED: 128
+            BLUE: 0
+            GREEN: 0
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 16
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS_PANE
+        damage: 5
+        amount: 16
+  '5':
+    size: 45
+    contents:
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      43_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNiY2EwMTJmNjdlNTRkZTlhZWU3MmZmNDI0ZTA1NmMyYWU1OGRlNWVhY2M5NDlhYjJiY2Q5NjgzY2VjIn19fQ==
+        custom-skullOwner: CSCoreLib
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bAluminum Ingot
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cElectric Motor
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXklY/nQPPTStaZfAYoFC4bbAVqC7tKGg4lP5iHL0OJkZFUCFp+g8CvHeX06N4ArckwqeLWxVZoUM7RVZpWYZiGusYJZWWIyZ2MElxicV1Hm68n5o+G0BysC/h7HnNxUA7hR4TJgYOfzyydXzY61XR1eUE3FmjiNdBKS9vpAumYo1cYic/W7leBP+19oDS22RmW6dd/uxkInumaHguxCV8vAZbGmTGW9ffuxK2laCxuE5j0WdpwfTl7mkG6Ln8QpR6U9ZekDBNhQ0TerM8G26EXXWuvO/t2n78ZMZSUs6hE/75RJAgQfKJIfFOlpfeu41BcAfQ8EdfyoBAAA=
+          skull-owner: CSCoreLib
+      44_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNiY2EwMTJmNjdlNTRkZTlhZWU3MmZmNDI0ZTA1NmMyYWU1OGRlNWVhY2M5NDlhYjJiY2Q5NjgzY2VjIn19fQ==
+        custom-skullOwner: CSCoreLib
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Energy Regulator
+          lore:
+          - ''
+          - §rCore Component of an Energy Network
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JIDdZNmDiEBkrKpfZ4TAExkENQiPzVH3EsuzuOznn0wF0+DhcRim/+1vdSq7BK67g03NsZDPPNdiKeYZdWr5R1qva4LXroVXtMLb0ddDn0533Q8sfC9AG/hzGnj90AHjR4D0t5cjhl08RonmDqjySbMLuzMcDkjss7h6+ptM5wC7uZr/5creT/691hjJzZGFFDb3ux3OXoq2VSL5JTNadfmjIbCqilixPJj0yk4jYodnaoh22dkcqYpVeYlWgQiUXKrBdiP1EQiKJoC1RxURU1RRZImg4b7FWsWJtnZs+gAZvpOw4LIJDcOv5tj0D/AHNeyn+KgEAAA==
+          skull-owner: CSCoreLib
+      8_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+        custom-skullOwner: CSCoreLib
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DAYLIGHT_DETECTOR
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cAdvanced Solar Generator
+          lore:
+          - ''
+          - §aMedium Generator
+          - §8⇨ §e⚡ §70 J Buffer
+          - §8⇨ §e⚡ §716 J/s
+          blockMaterial: DAYLIGHT_DETECTOR
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Electric Gold Pan
+          lore:
+          - ''
+          - §eBasic Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §72 J/s
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Electric Dust Washer
+          lore:
+          - ''
+          - §eBasic Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §76 J/s
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2Reactor Access Port
+          lore:
+          - ''
+          - §rAllows you to interact with a Reactor
+          - §rvia Cargo Nodes, can also be used
+          - §ras a Buffer
+          - ''
+          - §8⇨ §eMust be placed §a3 Blocks §eabove the Reactor
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: FURNACE
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cElectric Ore Grinder
+          lore:
+          - ''
+          - §rWorks as an Ore Crusher and Grind Stone
+          - ''
+          - §6Advanced Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §712 J/s
+          blockMaterial: FURNACE
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §2Nuclear Reactor
+          lore:
+          - ''
+          - §rRequires Cooling!
+          - §8⇨ §bMust be surrounded by Water
+          - §8⇨ §bMust be supplied with Reactor Coolant Cells
+          - ''
+          - §4End-Game Generator
+          - §8⇨ §e⚡ §716384 J Buffer
+          - §8⇨ §e⚡ §7500 J/s
+          internal: H4sIAAAAAAAAAE2LzW6CQBgAvzZtgqSP0SvJLuoWDh4amtQlshRd0eXGz1LABQ1CFZ6qj1iOPU5mRgfQ4WV36pX6as95qaQGjzSD1zQxbTvLpbEwSWwssEWMJMmIgecZQdKySI5NHfRpusi2K+V1Blon713fyqsOAA8aPIex6iX8ysFF0bFA2dFV6UDJxHyHlE+ryxttwiFxKKH15NfvZDPY/9plFx+WSszdImqCPqlDtJlvlVxvcVrvf3zuIc9kivHiJPgeiTFd+pwiwd1qcqN3YLUYgzszI+V/skrUrhJclREPsOBZIcZv7H+Im+BRxUbvRhts58FqBaDBE4trCTNn55xbuSkTgD8tepVwKgEAAA==
+          skull-owner: CSCoreLib
+      14_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTM0M2NlNThkYTU0Yzc5OTI0YTJjOTMzMWNmYzQxN2ZlOGNjYmJlYTliZTQ1YTdhYzg1ODYwYTZjNzMwIn19fQ==
+        custom-skullOwner: CSCoreLib
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bFreezer
+          lore:
+          - ''
+          - §6Advanced Machine
+          - '§8⇨ §7Speed: 1x'
+          - §8⇨ §e⚡ §7256 J Buffer
+          - §8⇨ §e⚡ §718 J/s
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: WORKBENCH
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Automated Crafting Chamber
+          lore:
+          - ''
+          - §6Advanced Machine
+          - §8⇨ §e⚡ §710 J/Item
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 15
+        amount: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS_PANE
+        damage: 5
+        amount: 10
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: END_ROD
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Energy Regulator
+          lore:
+          - ''
+          - §rCore Component of an Energy Network
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JIDdZNmDiEBkrKpfZ4TAExkENQiPzVH3EsuzuOznn0wF0+DhcRim/+1vdSq7BK67g03NsZDPPNdiKeYZdWr5R1qva4LXroVXtMLb0ddDn0533Q8sfC9AG/hzGnj90AHjR4D0t5cjhl08RonmDqjySbMLuzMcDkjss7h6+ptM5wC7uZr/5creT/691hjJzZGFFDb3ux3OXoq2VSL5JTNadfmjIbCqilixPJj0yk4jYodnaoh22dkcqYpVeYlWgQiUXKrBdiP1EQiKJoC1RxURU1RRZImg4b7FWsWJtnZs+gAZvpOw4LIJDcOv5tj0D/AHNeyn+KgEAAA==
+          skull-owner: CSCoreLib
+      27_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+        custom-skullOwner: CSCoreLib
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cAdvanced GPS Transmitter
+          lore:
+          - ''
+          - §8⇨ §e⚡ §764 J Buffer
+          - §8⇨ §e⚡ §76 J/s
+          internal: H4sIAAAAAAAAAE2Ly06DQBhGf40mlPgYbkmmwy1duKjUtEM6oIVShh2XQcChbSg0wFP5iM7S5fnO+VQAFV6Cn0GIz+5S1oIr8EgKeM1tjnOETA0bha0ZyDK1FONSM0w5ZEtb58hWQZWnK+/6mt8WoPR87IeO31QAeFDgOUrFwOGXTy5K4goVsSvyiViSwwAJnzRXm5yjKXOIRVrpd2trP63+tWafnkzBdLdKzl9D1kZorx8E3x2WeXu8s+a98U90ZOF6oi1DdEt0itnobQli2K3oXDTe/GGwOam8kM5J41W0+cbSY8k42USttzliP6Syp2NSu6syRm8ACjx5acth4QTOpeP7OgP4A4PCHeoqAQAA
+          skull-owner: CSCoreLib
+      28_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjOWMxYTAyMmY0MGI3M2YxNGI0Y2JhMzdjNzE4YzZhNTMzZjNhMjg2NGI2NTM2ZDVmNDU2OTM0Y2MxZiJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: DAYLIGHT_DETECTOR
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cAdvanced Solar Generator
+          lore:
+          - ''
+          - §aMedium Generator
+          - §8⇨ §e⚡ §70 J Buffer
+          - §8⇨ §e⚡ §716 J/s
+          blockMaterial: DAYLIGHT_DETECTOR
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: TRAP_DOOR
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §aLarge Energy Capacitor
+          lore:
+          - ''
+          - §2Good Capacitor
+          - §8⇨ §e⚡ §78192 J Capacity
+          internal: H4sIAAAAAAAAAE3LzW6CQBwE8H+bNkHSx+iVZIGVysFDQ2tdImv50BVuLLtWcFcNQlN8rj5gOfY0mfxmTAATntJjr9Rne97XShpwTwQ8Y1/MZp7wLey7wsKiFJaPObe443nIEVjaXJhgjqeLbLtaXidgdPKn61t5NQHgzoDHbal6Cb9yCFGxOyCxC1U1EG/sWYrUmjSXF3LaDjwgHtGjL1+91eD/2067kk1V7oaH4hT3XG/Ryk2UXCZ2pTff6+z9RpuFolnl5E08jRxaFzrROdvcoubLGa0pWHKM2OJYvG3sQi9q+jEmIyjKDvU6C0cPNW2IS1mOc00QOdn+Pp7PAQx4oKWWMAnS4NzKVc0B/gDuYzUWLgEAAA==
+          skull-owner: CSCoreLib
+      38_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzNjFlNTc2YjQ5M2NiZmRmYWUzMjg2NjFjZWRkMWFkZDU1ZmFiNGU1ZWI0MThiOTJjZWJmNjI3NWY4YmI0In19fQ==
+        custom-skullOwner: CSCoreLib
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eAngelic Block
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - '§7R-click: §r place block in the air'
+          - '§7L-click block: §r insta-break'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAD2PvUoDQRSFr7iE7ICNWllNFwgYtJ0uP6subH7QbGER8O7kZh0yOxNm7voMvoDvYJ/SV/Ih4h+e8vCdD44ASOF0yBxM1TJN/dpsDIUoAOAogW5Z5pOpj/z0mp/tPu72CaTfVUEY+f1i+Xb5ObjuQGfY+NYx/KULJ//GGTYE5zU5CkYPkBn1doIN1nQM6XxHAdl497tKfuDVBrVxtZIPWXEjAq0je0cjesYX49ugZH47m99nArWmGMfecfBWyUU5KvKxsFiRjUpeiV5/+bjIekqiq8kaXVmvt1+/Dqe+QzzzAAAA
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: WATCH
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eMultimeter
+          lore:
+          - ''
+          - §rMeasures the Amount of stored
+          - §rEnergy in a Block
+  '6':
+    size: 45
+    contents:
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §8Blank Rune
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 0
+              BLUE: 0
+              GREEN: 0
+            fade-colors: &id001 []
+            type: BURST
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eInfernal Dust
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Sometimes dropped from blazes.
+          - §7Looting enchantment may help.
+          - §7Combine this with iron or gold dust.
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViymrhUSGeCqbqWQmZeWWpSXmJNSWlwCdBAAs4+ezawAAAA=
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4Essence of Afterlife
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cBroken Spawner
+          lore:
+          - '§7Type: §bSpider'
+          - ''
+          - §cFractured, must be repaired in an Ancient Altar
+          blockMaterial: MOB_SPAWNER
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        amount: 21
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cBroken Spawner
+          lore:
+          - '§7Type: §bBlaze'
+          - ''
+          - §cFractured, must be repaired in an Ancient Altar
+          blockMaterial: MOB_SPAWNER
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cBroken Spawner
+          lore:
+          - '§7Type: §bZombie'
+          - ''
+          - §cFractured, must be repaired in an Ancient Altar
+          blockMaterial: MOB_SPAWNER
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cBroken Spawner
+          lore:
+          - '§7Type: §bSkeleton'
+          - ''
+          - §cFractured, must be repaired in an Ancient Altar
+          blockMaterial: MOB_SPAWNER
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§5§lEnder§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 128
+              BLUE: 128
+              GREEN: 0
+            fade-colors: *id001
+            type: BURST
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Doppel's Cute Golden Apple
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        damage: 1
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Everlasting Golden Apple
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§b§lAir§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 0
+              BLUE: 255
+              GREEN: 255
+            fade-colors: *id001
+            type: BURST
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 45
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§4§lFire§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 255
+              BLUE: 0
+              GREEN: 0
+            fade-colors: *id001
+            type: BURST
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 15
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§1§lWater§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 0
+              BLUE: 255
+              GREEN: 0
+            fade-colors: *id001
+            type: BURST
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK_CHARGE
+        amount: 27
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK_EFFECT
+          display-name: §7Ancient Rune §8§l[§c§lEarth§8§l]
+          firework-effect:
+            ==: Firework
+            flicker: false
+            trail: false
+            colors:
+            - ==: Color
+              RED: 255
+              BLUE: 0
+              GREEN: 165
+            fade-colors: *id001
+            type: BURST
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 13
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Ender Lump §7- §eIII
+          lore:
+          - ''
+          - '§c§oTier: III'
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §eVictory Cape!
+          lore:
+          - §f"I defeated the impossible"
+          - §9§nRepair
+          - §fRepairs §b9001.0§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCUotSMwssrI0MDA0YAAAzflr6h4AAAA=
+          color:
+            ==: Color
+            RED: 51
+            BLUE: 178
+            GREEN: 76
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §5§lEnder Helmet
+          lore:
+          - ''
+          - §a§oSometimes its here, sometimes there!
+          color:
+            ==: Color
+            RED: 28
+            BLUE: 112
+            GREEN: 25
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_CHESTPLATE
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §5§lEnder Chestplate
+          lore:
+          - ''
+          - §a§oSometimes its here, sometimes there!
+          color:
+            ==: Color
+            RED: 28
+            BLUE: 112
+            GREEN: 25
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_LEGGINGS
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §5§lEnder Leggings
+          lore:
+          - ''
+          - §a§oSometimes its here, sometimes there!
+          color:
+            ==: Color
+            RED: 28
+            BLUE: 112
+            GREEN: 25
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_BOOTS
+        damage: 2
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §5§lEnder Boots
+          lore:
+          - ''
+          - §a§oSometimes its here, sometimes there!
+          - ''
+          - §9+ No Enderpearl Damage
+          color:
+            ==: Color
+            RED: 28
+            BLUE: 112
+            GREEN: 25
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lMagic Eye of Ender
+          lore:
+          - §4§lRequires full Ender Armor
+          - ''
+          - §7§eRight Click§7 to shoot an Ender Pearl
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 2
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+        amount: 32
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 22
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Magical Lump §7- §eI
+          lore:
+          - ''
+          - '§c§oTier: I'
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_PEARL
+        amount: 8
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Ender Lump §7- §eI
+          lore:
+          - ''
+          - '§c§oTier: I'
+  '7':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: DAYLIGHT_DETECTOR
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §cAdvanced Solar Generator
+          lore:
+          - ''
+          - §aMedium Generator
+          - §8⇨ §e⚡ §70 J Buffer
+          - §8⇨ §e⚡ §716 J/s
+          blockMaterial: DAYLIGHT_DETECTOR
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eItem Router
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Routes items.  Insert one or
+          - §7more Routing Modules to activate.
+          - §7R-click block:§r configure router
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAD1QwUrDQBR8Yijtghf15GlvAcFS8bbgIWmjBtKmaAP15iZ5iYvJbtl98eQHePPkP3j36C/5EaZVnNMwzAzDMIARHAZEVuUd4dyUqlJoHQOAPQ+GWRbP5sbRw2t8tPm6+fRgtJUSlI4+TlbvZ9/j8wEMgtZ0muAPQzj4b1zIFuG4Ro1WFWNJJIunmWxljfswSjdoJSmjf1PezvxWyULpWvC7KLliFktHRmOIj/JZmc4KHl8v0tuIyaJA56ZGkzWN4MssTOIpa2SOjRN8wlpTdg0mypHgvs/yrqqwT78wzm06CcJ1EQVbrMOLcEeCS+afru6XkS+4Imyt6ffb/okf/S2K4yUBAAA=
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Energy Regulator
+          lore:
+          - ''
+          - §rCore Component of an Energy Network
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S3JIDdZNmDiEBkrKpfZ4TAExkENQiPzVH3EsuzuOznn0wF0+DhcRim/+1vdSq7BK67g03NsZDPPNdiKeYZdWr5R1qva4LXroVXtMLb0ddDn0533Q8sfC9AG/hzGnj90AHjR4D0t5cjhl08RonmDqjySbMLuzMcDkjss7h6+ptM5wC7uZr/5creT/691hjJzZGFFDb3ux3OXoq2VSL5JTNadfmjIbCqilixPJj0yk4jYodnaoh22dkcqYpVeYlWgQiUXKrBdiP1EQiKJoC1RxURU1RRZImg4b7FWsWJtnZs+gAZvpOw4LIJDcOv5tj0D/AHNeyn+KgEAAA==
+          skull-owner: CSCoreLib
+      4_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc4ZjJiN2U1ZTc1NjM5ZWE3ZmI3OTZjMzVkMzY0YzRkZjI4YjQyNDNlNjZiNzYyNzdhYWRjZDYyNjEzMzcifX19
+        custom-skullOwner: CSCoreLib
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: CHEST
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: BUCKET
+        amount: 16
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: BUCKET
+        amount: 6
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§eI.R. Mod: Hypersender ： [-565,68,2413,Zyrren]'
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Insert into an Item Router
+          - §7Sends items to a linked Receiver Module
+          - §7anywhere on any world
+          - §7L-Click item router with installed
+          - '§7 Receiver Module: §r Link Hyper Sender'
+          - '§7⇧ + L-Click anywhere: §r Unlink Hyper Sender'
+          - §7§61 item white-listed
+          - §7§6Filter by Material
+          - §7§d• §b§rBucket of Oil
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAE2Ty47aMBSG03Y0mkHqpu2qq+xGKsMdAkSaRYBAQhJuCddNaxITTBI7OA5DeIK+QJ+h3XfZTdXn6UM00JmqZ2Pr8/nPObJ/ZzjulnsjMUbROmbQIA7aIEijDMdxL664m+lU7RgkYp8+q2/DH8r3K+72jHQIIvbtvfUl9ztfuuaupYDEmHFPccO9/ldxAALIvXMhhhTZecAYsL0OCIALX3G3wxBSwBDBf1VX5+SXPx1EoX2mIm/KejfDIA0QBoxQkd8AP4KZDfJTCB0xk+MfHkSeUDe/jj0PsTzCB4jT1CSvMhiY53YZnmdJCNNq2lTXP6qWbKTIuQwh8pV0H0AGxHTlL9XOQiMlF3A+yv0nv0AHRaEPkhxO5xX5X19pK7Y9yHiy4YfIv6QgnE6IgS/ySjVSpeeQy/ppLrTHLVc6nFbM3Zujonnoa7uCRpZ2b1mdV81qRJ2114pr5mZhTVVtd5wpdRnC2snYSYL72IjLAlg01mqz219Oe7uToJQaJ6/dPGz9XVdxgnBZbKjFSsev7BbHoGwjMAf9pd2qFLOVsbmewX7j0SxaLBEO2xlWxhIcKGg4bXp6tjXruP1+E23crDfC7rACg3ky6RxO9UFhajRW/fohO6RxKVsYrnCnwBZgsWGxGUx7K0WvC5YxI8viyqTaIKR4uSBkJyeCi5LSvLNfTaJTr2Tbx4WJq93JYKcDVV71x0UQJt2tNiCMjobapDTaaoJMfKXOaGyMK2GomXuw1Q6GxJqxOxirBvYQacnlAlVm8XFvadKosB/XO8W9NJaky/VHXuz7OfKY2k7k22abUKij9ZNx5lvEoI8iJvJpi2c7WZdHNiRLnqiSnvER9qCjE1vkczWhdi807svVUuV+lVAKcebug7UcyXciv01lNILYSV1KnNiH6df5AyevlxhWAwAA
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§eI.R. Mod: Puller'
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Insert into an Item Router
+          - §7Pulls items from an adjacent inventory
+          - '§7L-click Block: §r Set direction'
+          - '§7⇧ + L-click Air: §r Unset direction'
+          - §7§61 item white-listed
+          - §7§6Filter by Material
+          - §7§d• §b§rBucket of Oil
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAE2Ty47aMBSG03Y0mkHqpu2qq+xGKuLOBIg0iwCBXLklXMKmNYkJzs3BcRjCE/QFuuu+3XfZXZ+nD9FAZ6qeja3P5/znyP5dYJhb5o1AKUGblEIdO2iLIEkKDMO8uGJu5nO5r+OEfvosv41/Sj+umNsz0iBI6Pf35pfS73LtmrkWQpxGlHmKG+b1P8URCCHzzoURJMguA0qB7fdBCFz4irkdx5AAinD0t+rqnPzyq4MItM+UZw1RGxQoJCGKAMWEZ7cgSGBhi4IcQocvlNiHB57FxC1vUt9HtIyiA4zy1KwsUxga53YFlqVZDHM1da5pH2VT1HPkXIbg2Ua+DyEFfL6yF7VzoZ6TCzgflf4rv0AHJXEAslKUz8uzv76Rbmr7kLJ4y45RcElBUT5hBAKelZqJLDyHWNdOS6437brC4bSm7t6YVI2DonoVFVv20Goum0YzIc7G76b3xnZlzmXVOy6klgjh/Un3BM59bKd1DqzaG7kzUKz50DtxUq198nudwy7wBpITxla1LVcb/aDhrY5h3UZgCRTL7jaqxcbU2Cyg0n40qibNuMNuEUlTAY4kNJ53fK3YXfRdRemgrVv0J5E7bsBwmc36h1NrVJnr7bXSOhTHJK0VK+N11K/QFVhtaWqE8+Fa0lqcqS+wVV0bRB3FJLJWGHtixrkoqy37+/UsOQ1rtn1cGVFzMBt5GpDFtTKtgjgb7NQRpmQyVme1yU7lRBxILUpSfdqIY9XYg5160AXaSd3RVNYjH+GuWK8QaZEe96YqTCr7aatf3QtTQbhcf+KnQVDCj7nteLZn9DCBGto8GWe5QxQGKKE8m7d4tpN5eWRdMMWZLGiFuw+mNRHveDbOlXIHYicNYP4t/gAsPMu1MgMAAA==
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §rOil Pump
+          lore:
+          - ''
+          - §7Pumps up Oil and fills it into Buckets
+          - ''
+          - §c§l! §cMake sure to Geo-Scan the Chunk first
+          internal: H4sIAAAAAAAAAE2LQW+CMBhAvy1bgmQ/Y1eSgiDj4GGzbpZYGMLA9obSBrFVg7CJv2s/cB53fHnvmQAmPKX7XqnP9ih3ShhwTyp49lFgV1JIywmQsNxKIquUzoslfE/6lWtLb+uaYN6mk2i7nTiPwOjEpetbcTYB4M6Ax7xUvYBfMYSIr2tUrUO1HcjkxlmKVEyak08O+bCZkQnRN794nSyH4F/rdWXhKTYOa35I+o3O0XK8UmKxsrf665sVXNFi/hPhtzrCxOYZvbAscThe6biYe6zZuxRzzbJQ0w+KIidXMU7GNHtv2HXu0WuoOa5r1tCBNeGeYuqSgx3IZDoFMOAhKrWA0SydHVux3G0A/gCh64ifLgEAAA==
+          skull-owner: CSCoreLib
+      8_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWZlMWEwNDBhNDI1ZTMxYTQ2ZDRmOWE5Yjk4MDZmYTJmMGM0N2VlODQ3MTFjYzE5MzJmZDhhYjMyYjJkMDM4In19fQ==
+        custom-skullOwner: CSCoreLib
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §bGPS Geo-Scanner
+          lore:
+          - ''
+          - §rScans a Chunk for natural Resources
+          - §rsuch as §8Oil
+          internal: H4sIAAAAAAAAAE2Ly26CQBRAb5s2QdLP6JZkeIqLLoxYHSJDVUBhJ3Ipjxk1CKbwXf3Asuzy5JwjA8jwtq87zr+aa15ylOCZZvBu6Yam5Vau2GqmK4Zpo2IjsRQtVVODTFVioCaDPE43bNoS7xOQWvxpuwbvMgA8SfAanXiH8Iu9S5JjQbKjy889tUYO9oT7tLpN6SXq0wW1qBj9em5t+tm/1mxPB5PHulskl22Xiohs9B3H9U49i/Dhic/aXzGRHOjgO1nBgoR7WqjGggnfCQfmRDUTS+IFWelV296r6rH71pMVHWItHGKxNL1DUjBnbsYVVdmKGqx0Z/mRfABI8MJOAmGy2C+uDW7KFOAPg38DVS4BAAA=
+          skull-owner: CSCoreLib
+      9_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFkOGNmZWIzODdhNTZlM2U1YmNmODUzNDVkNmE0MTdiMjQyMjkzODg3ZGIzY2UzYmE5MWZhNDA5YjI1NGI4NiJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_UNDEAD: 2
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 4
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+        damage: 120
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            DAMAGE_ARTHROPODS: 5
+            LOOT_BONUS_BLOCKS: 4
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            LOOT_BONUS_BLOCKS: 2
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 4
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DAMAGE_ALL: 3
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DAMAGE_UNDEAD: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            LOOT_BONUS_BLOCKS: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Gadget of Honor
+          lore:
+          - §fAgainst everything, elaborate enchantments allow
+          - §fGadget of Honor to resist decaying when used.
+          - §9§nRepair
+          - §fRepairs §b11.4§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §9§nHungry
+          - §fHas a §c13%§f chance of eating food or other items
+          - §ffrom the inventory every minute
+          - §f(This applies only if the item is in a player inventory)
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGLgCkotSMwssjI0NGHg9CjNSy+qtDI0ZgAAnY4tpycAAAA=
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9The Peasant's Iron Pickaxe
+          lore:
+          - §fAgainst everything, elaborate enchantments allow
+          - §fThe Peasant's Iron Pickaxe to resist decaying
+          - §fwhen used.
+          - §9§nRepair
+          - §fRepairs §b6.9§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 2
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssjKzZAAAaMqa5RsAAAA=
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §ePickaxe of Vein Mining
+          lore:
+          - ''
+          - §rThis Pickaxe will dig out
+          - §rwhole Veins of Ores...
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 1
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Gadget of the Elders
+          lore:
+          - §fHeat stored in Gadget of the Elders infuses with
+          - §fwhat It harvests.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          enchants:
+            DIG_SPEED: 4
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Uncommon Diamond Pickaxe
+          lore:
+          - §fHeat stored in Uncommon Diamond Pickaxe infuses
+          - §fwith what It harvests.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 1
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Doppel's Ugly Iron Pickaxe
+          lore:
+          - §fStone, rock, Doppel's Ugly Iron Pickaxe
+          - §feffortlessly digs through such trivialities.
+          - §9§nTunneler
+          - §fMines a §b3x3§f space of stone centered
+          - §fon the block being right-clicked
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDCnNy0vNSS2yYgAAHSv/vBsAAAA=
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9The Peasant's Iron Axe
+          lore:
+          - §fWhile used, The Peasant's Iron Axe heats the
+          - §fsurroundings with interesting effects.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DAMAGE_ARTHROPODS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9The Wicked Soul's Iron Axe
+          lore:
+          - §fThe Wicked Soul's Iron Axe, finely sharpened,
+          - §fseems to be able to work well with wood.
+          - §9§nTimber
+          - §fWill chop down §b15§f logs when right-clicked on a log
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+            LOOT_BONUS_BLOCKS: 4
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDMnMTUotsjI0ZQAAru7eBhsAAAA=
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Midnight Wind's Slim Device
+          lore:
+          - §fEven the sturdiest patch of dirt is powerless
+          - §fagainst Midnight Wind's Slim Device.
+          - §9§nEarthmover
+          - §fDigs a §b3x3§f space of dirt, grass, sand, gravel, snow
+          - §fand mycelium centered on the block being right-clicked
+          enchants:
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdk0sKsnIzS9LLbJiAAA012B3HQAAAA==
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9The Goddesses' Iron Axe
+          lore:
+          - §fSolidly crafted, The Goddesses' Iron Axe proves
+          - §feffective in cutting wood.
+          - §9§nTimber
+          - §fWill chop down §b6§f logs when right-clicked on a log
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 4
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCMnMTUotsjJjAAC5+AGRGgAAAA==
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Utensil of the Troll
+          lore:
+          - §fUtensil of the Troll refuses to break, however.
+          - §fIt keeps mending itself.
+          - §9§nRepair
+          - §fRepairs §b8.0§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssrIwYAAAK1zGPhsAAAA=
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        damage: 213
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 1
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 2
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        damage: 213
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 3
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Infused Gadget
+          lore:
+          - §fDespite how Infused Gadget is used, its inherent
+          - §fmagic would quickly repair It. The strength of
+          - §fIt allows it to harvest entire trees. But It has
+          - §fan unsavory hunger.
+          - §9§nRepair
+          - §fRepairs §b8.0§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §9§nTimber
+          - §fWill chop down §b21§f logs when right-clicked on a log
+          - §9§nHungry
+          - §fHas a §c5%§f chance of eating food or other items
+          - §ffrom the inventory every minute
+          - §f(This applies only if the item is in a player inventory)
+          enchants:
+            DURABILITY: 2
+            DAMAGE_ARTHROPODS: 1
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgDEotSMwssrIwYOAMycxNSi2yMjJk4PAozUsvqrQyZQAAKZSb/jAAAAA=
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        damage: 213
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+            DURABILITY: 3
+            VANISHING_CURSE: 1
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 1
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 4
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Caramel's Crystalized Tool
+          lore:
+          - §fHills, dunes, avalances, it does not seem to
+          - §fmatter - Caramel's Crystalized Tool seems to
+          - §fprove effective.
+          - §9§nEarthmover
+          - §fDigs a §b3x3§f space of dirt, grass, sand, gravel, snow
+          - §fand mycelium centered on the block being right-clicked
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdk0sKsnIzS9LLbJiAAA012B3HQAAAA==
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+            VANISHING_CURSE: 1
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Sky's Acceptable Diamond Spade
+          lore:
+          - §fHills, dunes, avalances, it does not seem to
+          - §fmatter - Sky's Acceptable Diamond Spade seems to
+          - §fprove effective.
+          - §9§nEarthmover
+          - §fDigs a §b3x3§f space of dirt, grass, sand, gravel, snow
+          - §fand mycelium centered on the block being right-clicked
+          enchants:
+            DURABILITY: 2
+            LOOT_BONUS_BLOCKS: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdk0sKsnIzS9LLbJiAAA012B3HQAAAA==
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        damage: 290
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Diamond Axe of the Foe
+          lore:
+          - §fDiamond Axe of the Foe, finely sharpened, seems
+          - §fto be able to work well with wood.
+          - §9§nTimber
+          - §fWill chop down §b28§f logs when right-clicked on a log
+          enchants:
+            DIG_SPEED: 2
+            SILK_TOUCH: 1
+            DAMAGE_UNDEAD: 1
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDMnMTUotsjKyYAAAui42sRsAAAA=
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Diamond Spade of Last Hope
+          lore:
+          - §fHeat stored in Diamond Spade of Last Hope
+          - §finfuses with what It harvests.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          enchants:
+            SILK_TOUCH: 1
+            DURABILITY: 3
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 1
+            LOOT_BONUS_BLOCKS: 3
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Pincer's Ugly Diamond Pickaxe
+          lore:
+          - §fHeated, Pincer's Ugly Diamond Pickaxe has
+          - §finteresting effects when used.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          enchants:
+            DIG_SPEED: 2
+            SILK_TOUCH: 1
+            DURABILITY: 2
+            VANISHING_CURSE: 1
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+  '8':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 1
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Greater Vengeance
+          lore:
+          - §fLight will not reach those struck by Greater
+          - §fVengeance. Deep within It lies an immense cold,
+          - §fradiating outwards. But It has an unsavory
+          - §fhunger.
+          - §9§nShroud
+          - §fBlinds targets for §b3.95§f seconds
+          - §9§nFrost
+          - §fSlows down targets by §b60%§f for §b4.3§f seconds
+          - §9§nHungry
+          - §fHas a §c7%§f chance of eating food or other items
+          - §ffrom the inventory every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgDM4oyi9NsTK3ZOB1K8ovLrEyM7CyMLUyYODwKM1LL6q0MmcAAJ0P6es0AAAA
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Bright Diamond Axe
+          lore:
+          - §fEven during the harshest of uses, Bright Diamond
+          - §fAxe does not seem to yield, nor fail or break.
+          - §9§nRepair
+          - §fRepairs §b10.9§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCkotSMwssjI0sGQAAFHAknocAAAA
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Praegus' Bruised Cap
+          lore:
+          - §fPraegus' Bruised Cap will prevent even the power
+          - §fof lightning from harming the wearer. It mirrors
+          - §fmagical spells, harming the origin. Alas, It
+          - §fonly resonates with spells, amplifying their
+          - §fimpact
+          - §9§nShock Absorber
+          - §fReduces lightning- and explosion-based damage by §b31%§f
+          - §9§nMagic Mirror
+          - §fMirrors §b31%§f of incoming magic-based damage to the attacker
+          - §9§nMagic Shield
+          - §fIncreases magic-based damage by §c15%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGYQDM7IT86Od0wqzi9KSi2yMjZk4PdNTM9MjvfNLCrKBwsIQASCMzJTc1KsdA1NGQAQZsM+RgAAAA==
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Wrathful Diamond Sword
+          lore:
+          - §fCurrents course around within Wrathful Diamond
+          - §fSword, striking down those who oppose the
+          - §fcarrier.
+          - §9§nCharged
+          - §fDoes §b162%§f more damage and splits
+          - §fdamage between §b4§f targets
+          - §fCan spread to targets up to §b7.6§f meters away
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQcM5ILEpPTbEyNDOyMrEyN2MAAMl1/PQiAAAA
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Pants of Glee
+          lore:
+          - §fDue to the intrinsic nature of Pants of Glee,
+          - §fthe wearer somehow is kept fed.
+          - §9§nSaturation
+          - §fRestores §b3.0§f hunger points and §b6.2§f saturation every minute
+          - §f(This applies only to items that are worn or held)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQCE4sKS1KLMnMz7MyNrAyM2IAAJPamMIiAAAA
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Blaze Rod of the Shepherd
+          lore:
+          - §fBlaze Rod of the Shepherd seems to be glowing
+          - §fsoftly, pulsating with energy.
+          - §9§nThaumic Bolt
+          - §fCan use up to §b74.2§f charges worth of damage
+          - '§fCharge left: §b148.4 / 148.4§f [Thaumic_Bolt]'
+          - §fRecharges §b38.1§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §fLeft-click to launch a thaumic bolt that
+          - §fdoes §b2.4§f hearts of damage to one target
+          - §fDamage increases the further the bolt travels
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRQCMlILM3NTI53ys8psTI0sTCBEMYWhlYmFlamBgwAObmjsjIAAAA=
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Spark Wheel's Metallic Bow
+          lore:
+          - §fThe silence of the night torments those struck
+          - §fby Spark Wheel's Metallic Bow. Corrosive forces
+          - §fwill burst on anyone struck by It. It is hollow,
+          - §fhowever, seeking to be filled with whatever it
+          - §fcan grasp.
+          - §9§nShroud
+          - §fBlinds targets for §b3.50§f seconds
+          - §9§nWither
+          - §fWithers targets (Strength §b3§f) for §b2.7§f seconds
+          - §9§nHungry
+          - §fHas a §c6%§f chance of eating food or other items
+          - §ffrom the inventory every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgDM4oyi9NsTI3YOAOzyzJSC2yMrYyNWbg8CjNSy+qtDJjAAC5HSb/MgAAAA==
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Uranium
+          lore:
+          - ''
+          - '§2Radiation Level: HIGH'
+          - §4§oHazmat Suit required
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkn4aUEOHrSSdEkBBdqye2PZrfzstg0F0+WpfEQ5epzMjA6gw1PWjUJ89udjI7gG94jBs+O6FSs9z6C0soyltfSM8sWnhmVXJmUecxhzdNDn6cL7oeHXBWgDvw1jz686ANxp8Lgvxcjhl6vQJEVtsiIUlULuzHlmigS1Fw+d9oqukYvk7Ddv7lb5/9rVUB5WAjthTU5fI5V7c+ukgm9Sq5K7HzzVTdSKmsjAJh+kw1OnInunSB5MUZs2pP2+JTly4vxdxnbYYZnODV4mOZ4iGSjckjbK6y45EBHbgUWy0D8W5iuABg9xKTks1tn63PNtQwH+ABFXh2IqAQAA
+          skull-owner: CSCoreLib
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Stormclaw's Bright Cane
+          lore:
+          - §fTransmuting ambient energy to matter, unbounded
+          - §fpower, eternal substance, Stormclaw's Bright
+          - §fCane seems to provide it all.
+          - §9§nDuplicator
+          - §fCan duplicate up to §b5.0§f charges worth of blocks
+          - '§fCharge left: §b5.0 / 5.0§f [Duplicator]'
+          - §fRecharges §b0.5§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §fLeft-click to see how much a block cost, if it can be duplicated.
+          - §fRight-click to duplicate the block.
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQciktyMlMTizJL7IyNQAjBgClFKBeJAAAAA==
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Saber of the Princess
+          lore:
+          - §fDark energies residing within Saber of the
+          - §fPrincess will harm anyone struck by it.
+          - §9§nWither
+          - §fWithers targets (Strength §b3§f) for §b2.7§f seconds
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDs8syUgtsjK2MjVmAABDDNCbHQAAAA==
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Tunic of Triviality
+          lore:
+          - §fEnchanted, Tunic of Triviality seems to absorb
+          - §fforces that would otherwise harm the wearer.
+          - §9§nRunic Shield
+          - §fBlocks up to §b4.35§f hearts of damage
+          - '§fCharge left: §b8.7 / 8.7§f [Runic_Shield]'
+          - §fRecharges §b3.9§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQDSrNy0yOD87ITM1JsbIwByFjSwYAAk23fycAAAA=
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Slim Longbow
+          lore:
+          - §fSlim Longbow seems to cut deeper into its
+          - §fvictims.
+          - §9§nLacerate
+          - §fDeals §b6.5%§f of the target's current health as additional damage
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTg9UlMTi1KLEm1MrAyM2UAALHjTmofAAAA
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Vola Nocturn's Atuned Helm
+          lore:
+          - §fThe magical protections of Vola Nocturn's Atuned
+          - §fHelm prevent the wearer from withering away. The
+          - §finherent magic of It seems to stop fire from
+          - §fscorching the wearer. It shocks the wearer,
+          - §fhowever, amplifying currents.
+          - §9§nEntropy Limit
+          - §fReduces wither-based damage by §b31%§f
+          - §9§nFireward
+          - §fReduces fire-based damage by §b32%§f
+          - §9§nShock Absorber
+          - §fIncreases lightning- and explosion-based damage by §c9%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGYQcM0rKcovqIz3yczNLLEyNmTgdsssSi1PLEqxMjZiEAzOyE/OjndMKs4vSkotstK1ZAAAdctEJEIAAAA=
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Stick of the Ancestors
+          lore:
+          - §fIt looks like Stick of the Ancestors can
+          - §ftransmute raw energy to physical substances.
+          - §9§nDuplicator
+          - §fCan duplicate up to §b50.0§f charges worth of blocks
+          - '§fCharge left: §b50.0 / 50.0§f [Duplicator]'
+          - §fRecharges §b0.2§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §fLeft-click to see how much a block cost, if it can be duplicated.
+          - §fRight-click to duplicate the block.
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQcSktyMlMTizJL7IyNTAAYyMGADirJXQmAAAA
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Bow of Chaos
+          lore:
+          - §fCoursing with energy, Bow of Chaos seems ready
+          - §fto strike down any opposition.
+          - §9§nCharged
+          - §fDoes §b88%§f more damage and splits
+          - §fdamage between §b4§f targets
+          - §fCan spread to targets up to §b6.2§f meters away
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgd85ILEpPTbGysLAysTIzYgAAafFisSEAAAA=
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Infused Bone
+          lore:
+          - §fSwiftly, Infused Bone strikes down foes from
+          - §fafar.
+          - §9§nThaumic Bolt
+          - §fCan use up to §b57.5§f charges worth of damage
+          - '§fCharge left: §b68.2 / 115.0§f [Thaumic_Bolt]'
+          - §fRecharges §b34.5§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §fLeft-click to launch a thaumic bolt that
+          - §fdoes §b1.8§f hearts of damage to one target
+          - §fDamage increases the further the bolt travels
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGSQD8lILM3NTI53ys8psTI0NDWwMrMwsjI2MbUyNrMytmAAAEP2mUMxAAAA
+      14_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiMjlhZmE2ZDZkYzkyM2UyZTEzMjRiZjgxOTI3NTBmN2JkYmRkYzY4OTYzMmEyYjZjMThkOWZlN2E1ZSJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Ebony's Arcane Utensil
+          lore:
+          - §fEbony's Arcane Utensil seems to be in tune with
+          - §fnature, speeding up the growth of vegetation.
+          - §9§nGrowth
+          - §fWhen right-clicked, this tool will accelerate the
+          - §fgrowth of crops, grass and vegetation.
+          - §fIt will also be able to grow trees from saplings
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRgdy/KLy/JsGIAAHlVzPEZAAAA
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fDuck-foot Pistol§f «0»
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Fancy Schimitar
+          lore:
+          - §fThere is no doubt; Fancy Schimitar can strike
+          - §fdown Malevolent creatures with ease.
+          - §9§nArmor Shredder
+          - §fPenetrates §b67§f points of the Malevolent mobs' armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQdizKzS+KD84oSk1JSS2yMrAyM2cAAP0+DIslAAAA
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Phantom Shoes
+          lore:
+          - §fStrangely, Phantom Shoes seems unable to be
+          - §fbroken; any cuts quickly mend themselves.
+          - §9§nRepair
+          - §fRepairs §b4.3§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssjIxZgAAjPbxHBsAAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Saber of the Dragon
+          lore:
+          - §fCorrosive forces will burst on anyone struck by
+          - §fSaber of the Dragon.
+          - §9§nWither
+          - §fWithers targets (Strength §b1§f) for §b2.0§f seconds
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDs8syUgtsjK0MjFkAACWV+TSHQAAAA==
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BARDING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fDouble-Barrelled Musket§f «0»
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Stormclaw's Crystalized Gaiter
+          lore:
+          - §fStormclaw's Crystalized Gaiter shields the
+          - §fwearer from feeble magical spells.
+          - §9§nMagic Shield
+          - §fReduces magic-based damage by §b16%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTg901Mz0yOD87ITM1JsTI0YwAAuxa/CyEAAAA=
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Glacial Iron Helmet
+          lore:
+          - §fMagic and physical forces cannot bypass Glacial
+          - §fIron Helmet; such forces are be absorbed by It.
+          - §9§nRunic Shield
+          - §fBlocks up to §b8.00§f hearts of damage
+          - '§fCharge left: §b16.0 / 16.0§f [Runic_Shield]'
+          - §fRecharges §b0.6§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQCyrNy0yOD87ITM1JsTI0MwBjMwYAciwaAygAAAA=
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Ceymi's Slim Footwear
+          lore:
+          - §fStrengthened through magical protection, Ceymi's
+          - §fSlim Footwear stands strong against physical and
+          - §fmagical attacks.
+          - §9§nRunic Shield
+          - §fBlocks up to §b2.55§f hearts of damage
+          - '§fCharge left: §b5.1 / 5.1§f [Runic_Shield]'
+          - §fRecharges §b3.3§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQDSrNy0yOD87ITM1JsTI1BCFjYwYAJq2mgScAAAA=
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Silencer of Cries
+          lore:
+          - §fSilencer of Cries seems it would wither away
+          - §fitself, before allowing the wearer to be harmed.
+          - §9§nEntropy Limit
+          - §fReduces wither-based damage by §b20%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQcM0rKcovqIz3yczNLLEyMmAAAFOepzEiAAAA
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Crystalized Cap
+          lore:
+          - §fForming a shielding layer, Crystalized Cap will
+          - §fprotect its wearer.
+          - §9§nRunic Shield
+          - §fBlocks up to §b7.65§f hearts of damage
+          - '§fCharge left: §b15.3 / 15.3§f [Runic_Shield]'
+          - §fRecharges §b0.6§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQCyrNy0yOD87ITM1JsTI0NQZjMwYAasIN4SgAAAA=
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Tryp's Hardened Rapier
+          lore:
+          - §fDeep within Tryp's Hardened Rapier lies an
+          - §fimmense cold, radiating outwards.
+          - §9§nFrost
+          - §fSlows down targets by §b30%§f for §b2.8§f seconds
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdSvKLy6xMjawMjW1MmAAADiAv7kfAAAA
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Tryp's Tyrannical Iron Sword
+          lore:
+          - §fThe Malevolent creatures protections do not seem
+          - §fto stop Tryp's Tyrannical Iron Sword from
+          - §fharming them.
+          - §9§nArmor Shredder
+          - §fShreds §b17%§f of the Malevolent mobs' armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQdizKzS+KD84oSk1JSS2yMjS3MmAAADOgXQIlAAAA
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Dawnbreaker
+          lore:
+          - §fDeep within Dawnbreaker lies an immense cold,
+          - §fradiating outwards.
+          - §9§nFrost
+          - §fSlows down targets by §b15%§f for §b2.0§f seconds
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdSvKLy6xMjS1MjG0MmAAAAUWoBsfAAAA
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Spark Wheel's Perfected Bow
+          lore:
+          - §fThe enchantments on Spark Wheel's Perfected Bow
+          - §fpartially ignore the armor of Malevolent
+          - §fcreatures.
+          - §9§nArmor Shredder
+          - §fShreds §b37%§f of the Malevolent mobs' armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQdizKzS+KD84oSk1JSS2yMja3MmAAAFPznXglAAAA
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Skirt of Triviality
+          lore:
+          - §fMagic prevents Skirt of Triviality from
+          - §fbreaking, It seems to mend itself.
+          - §9§nRepair
+          - §fRepairs §b9.4§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssrI0YQAAGPNoWxsAAAA=
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Neverlasting Sorrow
+          lore:
+          - §fStrengthened through magical protection,
+          - §fNeverlasting Sorrow stands strong against
+          - §fphysical and magical attacks.
+          - §9§nRunic Shield
+          - §fBlocks up to §b3.70§f hearts of damage
+          - '§fCharge left: §b7.4 / 7.4§f [Runic_Shield]'
+          - §fRecharges §b3.5§f points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQDSrNy0yOD87ITM1JsTI3ASFjUwYAOQLCNCcAAAA=
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Senyx' Ugly Diamond Leggings
+          lore:
+          - §fEven during the harshest of uses, Senyx' Ugly
+          - §fDiamond Leggings does not seem to yield, nor
+          - §ffail or break.
+          - §9§nRepair
+          - §fRepairs §b8.2§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssrIwYgAAqT7wDBsAAAA=
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        damage: 75
+      36_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiMjlhZmE2ZDZkYzkyM2UyZTEzMjRiZjgxOTI3NTBmN2JkYmRkYzY4OTYzMmEyYjZjMThkOWZlN2E1ZSJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 18
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: BUCKET
+        amount: 3
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        amount: 64
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        amount: 38
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: TORCH
+        amount: 4
+  '9':
+    size: 45

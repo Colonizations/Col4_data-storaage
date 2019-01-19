@@ -1,0 +1,502 @@
+researches:
+  '0': true
+  '92': true
+  '53': true
+  '32': true
+  '156': true
+  '2': true
+  '8': true
+  '151': true
+  '33': true
+  '50': true
+  '54': true
+  '1': true
+  '18': true
+  '35': true
+  '30': true
+  '105': true
+  '155': true
+  '158': true
+  '228': true
+  '14': true
+  '7': true
+  '6': true
+  '4': true
+  '5': true
+  '9': true
+  '10': true
+  '11': true
+  '12': true
+  '13': true
+  '15': true
+  '16': true
+  '17': true
+  '19': true
+  '20': true
+  '21': true
+  '22': true
+  '23': true
+  '24': true
+  '25': true
+  '26': true
+  '27': true
+  '28': true
+  '29': true
+  '31': true
+  '34': true
+  '36': true
+  '37': true
+  '38': true
+  '39': true
+  '40': true
+  '41': true
+  '42': true
+  '43': true
+  '45': true
+  '46': true
+  '47': true
+  '48': true
+  '51': true
+  '52': true
+  '55': true
+  '56': true
+  '57': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '72': true
+  '73': true
+  '74': true
+  '75': true
+  '76': true
+  '77': true
+  '79': true
+  '80': true
+  '81': true
+  '84': true
+  '85': true
+  '86': true
+  '87': true
+  '89': true
+  '90': true
+  '91': true
+  '93': true
+  '94': true
+  '95': true
+  '96': true
+  '97': true
+  '98': true
+  '99': true
+  '100': true
+  '101': true
+  '103': true
+  '104': true
+  '106': true
+  '107': true
+  '108': true
+  '112': true
+  '115': true
+  '116': true
+  '117': true
+  '118': true
+  '119': true
+  '120': true
+  '121': true
+  '122': true
+  '123': true
+  '124': true
+  '125': true
+  '126': true
+  '127': true
+  '129': true
+  '130': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '142': true
+  '143': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '150': true
+  '152': true
+  '154': true
+  '157': true
+  '159': true
+  '160': true
+  '161': true
+  '162': true
+  '163': true
+  '164': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '177': true
+  '178': true
+  '179': true
+  '180': true
+  '181': true
+  '182': true
+  '183': true
+  '184': true
+  '185': true
+  '186': true
+  '187': true
+  '188': true
+  '189': true
+  '190': true
+  '191': true
+  '192': true
+  '193': true
+  '194': true
+  '195': true
+  '196': true
+  '197': true
+  '198': true
+  '199': true
+  '200': true
+  '202': true
+  '203': true
+  '204': true
+  '205': true
+  '206': true
+  '207': true
+  '208': true
+  '209': true
+  '210': true
+  '211': true
+  '212': true
+  '213': true
+  '214': true
+  '216': true
+  '217': true
+  '218': true
+  '219': true
+  '220': true
+  '222': true
+  '223': true
+  '224': true
+  '226': true
+  '227': true
+  '229': true
+  '230': true
+  '231': true
+  '232': true
+  '233': true
+  '234': true
+  '235': true
+  '236': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        amount: 17
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: LADDER
+        amount: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_DOOR
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: SAPLING
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Peach Sapling
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: LONG_GRASS
+        damage: 1
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Slim Iron Axe
+          lore:
+          - §fSlim Iron Axe, finely sharpened, seems to be
+          - §fable to work well with wood.
+          - §9§nTimber
+          - §fWill chop down §b6§f logs when right-clicked on a log
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCMnMTUotsjJjAAC5+AGRGgAAAA==
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 29
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            SILK_TOUCH: 1
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §bPolished Gem
+          lore:
+          - §fLight makes this gem sparkle
+          - §fin a wonderful fashion
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 9
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 3
+        amount: 14
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: WORKBENCH
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: HARD_CLAY
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 7
+        amount: 2
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 40
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 49
+  '1':
+    size: 27
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        damage: 5
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        damage: 3
+        amount: 37
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        amount: 6
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLE_WALL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 2
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §aSlimefun Guide §7(Chest GUI)
+          lore:
+          - ''
+          - §eRight Click §8⇨ §7Browse Items
+          - §eShift + Right Click §8⇨ §7Open Settings / Credits
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER
+        amount: 8
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+        amount: 27
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: STEP
+        damage: 5
+        amount: 59
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: JUNGLE_WOOD_STAIRS
+        amount: 63
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_STEP
+        damage: 1
+        amount: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: JUNGLE_FENCE
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: TRAP_DOOR
+        amount: 46
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_STEP
+        damage: 3
+        amount: 7
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: FENCE
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLE_WALL
+        amount: 50
+  '2':
+    size: 27
+    contents:
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_ORE
+        amount: 11
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 17
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 41
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: STICK
+        amount: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        damage: 1
+        amount: 42
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        damage: 1
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 356
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 1
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: WATER_BUCKET
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 45
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            ARROW_DAMAGE: 5
+            DURABILITY: 10
+            ARROW_INFINITE: 1
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §aSlimefun Guide §7(Chest GUI)
+          lore:
+          - ''
+          - §eRight Click §8⇨ §7Browse Items
+          - §eShift + Right Click §8⇨ §7Open Settings / Credits
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTATO_ITEM
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: SHEARS
+        damage: 114
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 294
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 25

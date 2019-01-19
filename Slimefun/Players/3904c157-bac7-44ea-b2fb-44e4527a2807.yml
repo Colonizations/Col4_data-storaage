@@ -1,0 +1,535 @@
+researches:
+  '53': true
+  '39': true
+  '86': true
+  '2': true
+  '1': true
+  '4': true
+  '9': true
+  '101': true
+  '54': true
+  '35': true
+  '18': true
+  '105': true
+  '120': true
+  '106': true
+  '108': true
+  '8': true
+  '119': true
+  '155': true
+  '0': true
+  '5': true
+  '6': true
+  '7': true
+  '10': true
+  '11': true
+  '12': true
+  '13': true
+  '14': true
+  '15': true
+  '16': true
+  '17': true
+  '19': true
+  '20': true
+  '21': true
+  '22': true
+  '23': true
+  '24': true
+  '25': true
+  '26': true
+  '27': true
+  '28': true
+  '29': true
+  '30': true
+  '31': true
+  '32': true
+  '33': true
+  '34': true
+  '36': true
+  '37': true
+  '38': true
+  '40': true
+  '41': true
+  '42': true
+  '43': true
+  '45': true
+  '46': true
+  '47': true
+  '48': true
+  '50': true
+  '51': true
+  '52': true
+  '55': true
+  '56': true
+  '57': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '72': true
+  '73': true
+  '74': true
+  '75': true
+  '76': true
+  '77': true
+  '79': true
+  '80': true
+  '81': true
+  '84': true
+  '85': true
+  '87': true
+  '89': true
+  '90': true
+  '91': true
+  '92': true
+  '93': true
+  '94': true
+  '95': true
+  '96': true
+  '97': true
+  '98': true
+  '99': true
+  '100': true
+  '103': true
+  '104': true
+  '107': true
+  '112': true
+  '115': true
+  '116': true
+  '117': true
+  '118': true
+  '121': true
+  '122': true
+  '123': true
+  '124': true
+  '125': true
+  '126': true
+  '127': true
+  '129': true
+  '130': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '142': true
+  '143': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '150': true
+  '151': true
+  '152': true
+  '154': true
+  '156': true
+  '157': true
+  '158': true
+  '159': true
+  '160': true
+  '161': true
+  '162': true
+  '163': true
+  '164': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '177': true
+  '178': true
+  '181': true
+  '184': true
+  '185': true
+  '186': true
+  '187': true
+  '188': true
+  '189': true
+  '190': true
+  '192': true
+  '194': true
+  '199': true
+  '202': true
+  '205': true
+  '206': true
+  '207': true
+  '215': true
+  '216': true
+  '217': true
+  '228': true
+  '229': true
+  '230': true
+  '235': true
+  '222': true
+  '203': true
+backpacks:
+  '0':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      0_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      1_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      2_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      3_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      4_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      5_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      6_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      7_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      8_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      9_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      10_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      11_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      12_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      13_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      14_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      15_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      16_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      17_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      18_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      19_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      20_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      21_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      22_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      23_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 58
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §6Stone Chunk
+          internal: H4sIAAAAAAAAAE2Ly26CQBhG/zZtgqSP0S0JyAC6bDHVMToUuSiz4zIWmBk1CA3wVH3E0l2X5zvfUQFUeAl4J8Rncz1XginwiAt4tRyUm8jJtUXOCg3lzNEytEDa31jYVrY0bEMFdYpurGkrdp+B0rK+7Rp2VwHgQYHnOBUdgx82bHV6KvXitBX5gO2Jw0AXHq5vDr7EQ+ZiG8vJb97s3bD897Xa9GiJxNyW9OJ3mYz1nXkQbHMwchl9J/MI0Tou6Rr3ZO3Pk1FIIjHah+98v8ImCf2R1h+lt973tPZ7Mo8GKmPuhXxMRm4mknBvJWoyHiQ5Ti78qs4nYwmgwBNJJYOZG7jXhu2qDOAXfrvMRyoBAAA=
+          skull-owner: CSCoreLib
+      24_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U4ZjVhZGIxNGQ2YzlmNmI4MTBkMDI3NTQzZjFhOGMxZjQxN2UyZmVkOTkzYzk3YmNkODljNzRmNWUyZTgifX19
+        custom-skullOwner: CSCoreLib

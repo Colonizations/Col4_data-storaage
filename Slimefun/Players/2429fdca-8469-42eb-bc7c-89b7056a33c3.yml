@@ -1,0 +1,455 @@
+researches:
+  '125': true
+  '9': true
+  '30': true
+  '6': true
+  '92': true
+  '8': true
+  '1': true
+  '4': true
+  '95': true
+  '86': true
+  '53': true
+  '2': true
+  '5': true
+  '35': true
+  '105': true
+  '39': true
+  '11': true
+  '54': true
+  '120': true
+  '0': true
+  '7': true
+  '10': true
+  '12': true
+  '13': true
+  '14': true
+  '15': true
+  '16': true
+  '17': true
+  '18': true
+  '19': true
+  '20': true
+  '21': true
+  '22': true
+  '23': true
+  '24': true
+  '25': true
+  '26': true
+  '27': true
+  '28': true
+  '29': true
+  '31': true
+  '32': true
+  '33': true
+  '34': true
+  '36': true
+  '37': true
+  '38': true
+  '40': true
+  '41': true
+  '42': true
+  '43': true
+  '45': true
+  '46': true
+  '47': true
+  '48': true
+  '50': true
+  '51': true
+  '52': true
+  '55': true
+  '56': true
+  '57': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '72': true
+  '73': true
+  '74': true
+  '75': true
+  '76': true
+  '77': true
+  '79': true
+  '80': true
+  '81': true
+  '84': true
+  '85': true
+  '87': true
+  '89': true
+  '90': true
+  '91': true
+  '93': true
+  '94': true
+  '96': true
+  '97': true
+  '98': true
+  '99': true
+  '100': true
+  '101': true
+  '103': true
+  '104': true
+  '106': true
+  '107': true
+  '108': true
+  '112': true
+  '115': true
+  '116': true
+  '117': true
+  '118': true
+  '119': true
+  '121': true
+  '122': true
+  '123': true
+  '124': true
+  '126': true
+  '127': true
+  '129': true
+  '130': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '142': true
+  '143': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '150': true
+  '151': true
+  '152': true
+  '154': true
+  '155': true
+  '156': true
+  '157': true
+  '158': true
+  '159': true
+  '160': true
+  '161': true
+  '162': true
+  '163': true
+  '164': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '177': true
+  '178': true
+  '179': true
+  '180': true
+  '181': true
+  '182': true
+  '183': true
+  '184': true
+  '185': true
+  '186': true
+  '187': true
+  '188': true
+  '189': true
+  '190': true
+  '191': true
+  '192': true
+  '193': true
+  '194': true
+  '195': true
+  '196': true
+  '197': true
+  '198': true
+  '199': true
+  '200': true
+  '202': true
+  '203': true
+  '204': true
+  '205': true
+  '206': true
+  '207': true
+  '208': true
+  '209': true
+  '210': true
+  '212': true
+  '213': true
+  '216': true
+  '217': true
+  '218': true
+  '219': true
+  '220': true
+  '222': true
+  '226': true
+  '227': true
+  '228': true
+  '229': true
+  '230': true
+  '231': true
+  '234': true
+  '235': true
+  '236': true
+  '211': true
+  '233': true
+  '224': true
+  '214': true
+  '223': true
+  '232': true
+  '221': true
+  '225': true
+  '201': true
+  '215': true
+backpacks:
+  '0':
+    size: 45
+    contents:
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_STONE
+        amount: 22
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: CHORUS_FLOWER
+        amount: 4
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: DRAGONS_BREATH
+        amount: 33
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: RED_ROSE
+        damage: 1
+        amount: 2
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          lore:
+          - '§1Probability: §6100.0'
+          - '§1Amount: §654'
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: BEETROOT_SEEDS
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DAYLIGHT_DETECTOR
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §bSolar Panel
+          lore:
+          - ''
+          - §a§oTransforms Sunlight to Energy
+          blockMaterial: DAYLIGHT_DETECTOR
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: DISPENSER
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 4
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: CHEST
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: HOPPER
+  '1':
+    size: 45
+    contents:
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LuQ6CQBQF0AsCwqi44/YnVsalsNbejIhkIkvER6Ffryb+gPf0RwEK4Tor49uuECPPo04DuHtJ8ocCsLDgHLJS4MM2F0S5KZK40ldZ3mtdyet0/lYL7qasC1nZ8LY612nyqb9p0dOmZ4OeDj1denr0bNLTp2dAT0XPFj3b9OzQM6Rnl549evbpOaDnkJ4jeo7pGdFzQs8pPWf0nP8/gTdAMibaQQYAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LyxLBMAAF0Ntqqw2KevMnVkZZWLM3mYpORpPMVCz8PQs/4J79EYBAvm9c9Thar/37IusM8ckr8xQANgGic+M8UoT6hsJoq6pW3v22crK5ulYFiEv3sn4XIjlII2v1bb8VUCukVodaEbViaiXU6lIrpVZGLUGtHrX61BpQK6fWkFojao2pVVBrQq0ptWbUmlNrQa0ltVbUWv+3gA8S96PC1QUAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3TTW4TMRQH8Jd0kmZS+pk2lLIxYlFAEIkVqBvoFzRSC0hJF6xSZ+ZlYnVsD7aj0J6AC8AVwp4VYpejsOYQOJmmqdpRq5lZ2v7Zf7/nKQOUYWEnlN7pvjDMnDVp4EKhbpDrMgA8zIHTCKWBEuSZD1XOBHqKdsxWO6Tn2Ipk30eVg8Ku7AmTK8OMocEMuAfMx3chDbTd400ZZn2mo5CeueAcSoUlO+rA4+Hg9XAg//743UChWTvEppRhW34lTxrNnaeE2RDwaDh41ZAcDeOoia9kFKFPOkpyMk6ga0DskkMpDRMBQeF1qTAchSGcnpEuhlENNu2KXcnbNjwxXaZJn5kuYUoKIhUJZOgTv6dNrQTOB8oRloYDrIsOKkFDsmdnwIWVbWMUa/cMHkmfdRiqcYFyDpSOj+t7R1Kbk2/1SvTn4JcD7mjoEKk2Pzea31/8q70sQnGbj2oEF18J5i93HB+6GqBAxbwaNYZ6p3uU0wBtKT9GqKhhUsQqTljdfNb8/Gl/c4uwi5yjC9hAeSjGcpQt7l0u7t3atHd2ntOWp5DySevcBJiP4fIUahqFtszX+j3t7yTe/HDgvVc0QrLT093EVDPx5uvTzYNQ9rWRAluju0zOmEuwzo0bCTRdVK0+VZewmgALMVyawi89S84n5m2CKWYwszcCerJtH/j4ehOYT4ClGFaulFz2wpamwp+wlQTmxmzxWotvi1hOT+bSk3vpyXx6spCeLKYnS+nJcnqycuMFXP4Xt7HKHa90K8GsZjtqLRurZmP3s7H1bOxBNrZxN3t+lQH8B7vEJM95BwAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LuQ6CQBQF0AsCwqi44/YnVsalsNbejIhkIkvER6Ffryb+gPf0RwEK4Tor49uuECPPo04DuHtJ8ocCsLDgHLJS4MM2F0S5KZK40ldZ3mtdyet0/lYL7qasC1nZ8LY612nyqb9p0dOmZ4OeDj1denr0bNLTp2dAT0XPFj3b9OzQM6Rnl549evbpOaDnkJ4jeo7pGdFzQs8pPWf0nP8/gTdAMibaQQYAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LuQ6CQBQF0AsCwqi44/YnVsalsNbejIhkIkvER6Ffryb+gPf0RwEK4Tor49uuECPPo04DuHtJ8ocCsLDgHLJS4MM2F0S5KZK40ldZ3mtdyet0/lYL7qasC1nZ8LY612nyqb9p0dOmZ4OeDj1denr0bNLTp2dAT0XPFj3b9OzQM6Rnl549evbpOaDnkJ4jeo7pGdFzQs8pPWf0nP8/gTdAMibaQQYAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ2VW2/TSBTHT9qEhgClpWW5CXG0CASIDVFXPCzwwKU8IHGRoBIPK6jG9ok9YjyTnRmXTb9Qvkc+GWeSOo6wRUUeLMs+8zuX//w97gH0YPOlMvG319pLPz4Q6VnovPGUux4AXG9B+5MyHrqwJhO4nEtNsRVD/0Raow8zUjn5FnRemUL71hqc2Re5SInJE7A1B3cqMFLimA6tSRZYD9Z9KNvOcxN1Z+zufjFSMhbe2CePB4PZtdeDjUS6kRJjXvvWWApre/BoOhm+E96TRaETJE02HaOwhDlZUmP0GaETOWFUeJQa/mYgkcMhR7XHobG5e4jeoCWh5DElGI3xZegSP5oEzTAkgAsMvdAxOW7J9WFrOvlnOtFVm8CPw1dCY3LyirAYhazTSfR40B9wFONM2JQcfjfWZyFxFIR30A/oLIaKWKKSwUdYov9Wlb7AA37zkcpsvHjQ3wuLRkZq75COyI6RFS88wVMO3DvIpEMx4gy83mjWRM6mQskbjRyTGgUGZVlEqY9YF2PH92Gf4bfc0V8x1/4WpnFEmJnvmBdxxshsAIyN8w9DSukxZgkiqlRI+nA3tCvTbClNJVLoYpal34X2e94luMnS/iw/LqQHaHDZ2txl25XLnOACOi091q2gTgmt1yBiwwj1szEbbdfh69Z0Yj9nUhGOTYGZOArTsJgHbCOXCw03eAEry1GLb0pVg0iZcLOgwL3BnWALni5MmpgiCm3DbggqhR8sb1jIHposBbo6nYiyRqnPO47bRm3atTETKXKjF2OuNUCd2vcemyhSYQs0NYi6AM/Mwc2lnZCp/tUJsTEntipiZDz7vGSeNTDdGhMLa83iJLrXwJydMxcrxhIlrkS2GpDeabZamqddQudOg5b0Xi+h86d5caOhvQu1s3V2KEfCul/t7WZNCOf5syyR7Qbk4hy5VvPQ4YhJ8T/Vz3LScRb+INzBujpS4R5S/Aknz+358+0lz7a+lvW2a/ZLjUoOdZGm1e9mp6HRSzVj/FcI649L5nkDs7MCs7sCc3kF5o8VmCsrMFdXYK6twFz/HQbgB75yXOifCAAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LuQ6CQBQF0AsCwqi44/YnVsalsNbejIhkIkvER6Ffryb+gPf0RwEK4Tor49uuECPPo04DuHtJ8ocCsLDgHLJS4MM2F0S5KZK40ldZ3mtdyet0/lYL7qasC1nZ8LY612nyqb9p0dOmZ4OeDj1denr0bNLTp2dAT0XPFj3b9OzQM6Rnl549evbpOaDnkJ4jeo7pGdFzQs8pPWf0nP8/gTdAMibaQQYAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ2Wy24TSRSGj+22sU0u5EZCCFLPzCIwo7E0EoIZNhMyCRCJm2SDxMpT7j7pLrlcZVWVc5knmBeAV/DsWSF2fhTWvANTnUp3O+lKQHhX3f7q/PWf/5S6CdCEuW0mgv4u11Qfd0jUgOqexoFqAsDNEnhtJjTUoUxDmB9QjoEk+/rBkAxRlqD6lxhxvViG2g4ZkAgNc4qULLKcI5FgYZfyyLw75e42oaJJVIHGExriI0YiZTb4swlXQqqGjBw3wHsqJNbN0zL8NBn/PhmLT+8+tJEr2mPYEYL1xJF/u93ZvuNToxpWJ+P7bS0Jj5Ad+xETh6Ziq9Wqg/ecDDB5j7scZUT/wdB/bCT5e4kkaMDiQ60l7Y00PhMh3acoTzwoeVB/9Wpv55lQ+u9/95aGH5+896CRPHqKROn/1jtvf/3c+q0GtYeD5FRw+qvDbLbjSe3lCE1lGrSI1iToW8fM4V8YK4mmglvKCt3Y/Lnz5uXu5gMfU7mJgSf+NRM7Co6XreM3csdDSgaCh90hDfrkCFPbSw64YuHZKfg4A7ZyYD4FvMsAzwFULbA0FYgRH4rDMM9R2SGsZrHVHGNIdIyy2xNCq+xMNkrO6HhJkidjYsLTjik3FvqM9tE3u/hqxH8wrxcm4z9+8Z/TKNb+a6pMLypQDQQTEr58yXqyYsIzGbPHJlVKC47+diJhuhmbqewrVva1XLaKKbLQ0YO1lKkXGHMQ3s/OeDdnSinTsMzKuTHjoyjCbM4WHL42C76maXH5atxEHsTJPFTKUGEHDEyzkg1KcHbdSNcVuy47s3rVVr9+VjbyrjoU0mVSRs4USI42Dmay+ilZdZCzhRvJkpLk3JaDm7Pc2pTWNADdcKQyl7fORzCNzcxkfO/kptkx/3baMV+QRqXgX+tE+azTP6bOe3ZdcZa6ZkttFPsexKi00a3x4pKlsyXBWWLhGw3b/H7DFgsl0lPEyAZ58i827TSu1XNxdZu2ZMutF8sxjCJzoajLIrt8oVgViwNkl7Erlp3L2Z6xMSVqDuL6N8S86eBWLXfLYamQCrtEDoS8TOpaYTKl0NrM9D5DFafkjIO8UTBIYmjz0ku+TVJ2w8GuFy7NgAR6lDVkbpoB+B+uhdSP8ggAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LyxLBMAAF0Ntqqw2KevMnVkZZWLM3mYpORpPMVCz8PQs/4J79EYBAvm9c9Thar/37IusM8ckr8xQANgGic+M8UoT6hsJoq6pW3v22crK5ulYFiEv3sn4XIjlII2v1bb8VUCukVodaEbViaiXU6lIrpVZGLUGtHrX61BpQK6fWkFojao2pVVBrQq0ptWbUmlNrQa0ltVbUWv+3gA8S96PC1QUAAA==
+          blockMaterial: PURPLE_SHULKER_BOX
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAKXTy1KDMBQG4ANCL9RWqG3BywO4dN2V42XhWvdMLBEZSTKGdFGf3taUoZQz4MQH+PKfk+T3ADyY3Odi9fnEVaY2ryQdgvusKCs8ALiywHnJhYIB2FkC1yzjdCXJu1qmIk8ojz+ELGhMJBPSAvdBrLmybOg9EkZSuj1g7y3tp5XPpOCxkLRUd4iytVpUStKkUILTLnmi5ewo7223aOkixDmNOXd7dqW5WoWVSjLCBE/qgSOE9oxX7Gs5PgjdYMApwcDoDYZGyjNSoz9dho/IU/y9M55u/17L9Y+N5pz8sw1nRqm+kQqM1FSrCHmJ2pcOEXvemRggatbZvBtEzbXyK/W1JlJ9t+22aLSVMipJftTWOUJDTYNG0UtkIyhqoH1e25AXbe2+Rdp92WjA7/3VGtA/DAL4AdIo9Cv9BQAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAN3UzW7UMBAH8NnP7oay293SFnqKxLUnVITEBUShEhICBNwjN5l1rHU8ke0Q+kQ98g59MlLSfEi2FnGEW5ToN56x/3EAEMDijaR4+05ZYa+/MT6HyXuLmQkA4HQA46+SLMxgKBJYZkJhrNnGvjRSZDiAyQUVyr4YwvQtyxjHytyTgUOY1lQ25LWHDP+ejGpy1BFOMolUwTnaBi49cFzDRQdjYnLXUhOnuwwlqYaMPWS6c5FXHrHnLLKRQrWTTD1kVpPjjghNKspFvGU/2iMaBDCyjI8g+II5E/qCjP1do6v4s6k4ryuedBWtFnkpNEYp0bYt6WkmqOmq1z8ym6Jud7buI4C9RJhcsus5jD+QxllVYwjPb2+uPqkYw8JgEm5Ih8xWsSwSDGNSVpMMmUpCjgo1k2G1Nzy1Z/CsYorKTiUYk2ZWkDoLSy2sUDysXt99KqyQVdBnMP7IMoT17c3mM3JmChNe1q0CeAZ74AyWF1m+FWrXbuzX6KB3/iy2hWnMzGMeOgngmhmzKwEL5ycwlhRGpiSdePq7bODSic49TOk7So8sGrmq5WGvy0LlVCbdSa88na7/13gc/mmw8390sEfOFaaZaKNx4BFHtVj37sm7J6btrl/l2Im9Rkza2A895MSJfZlWk0SmD5964GMn9gkVVxKj6ly6u7a35KSRT5zd2AiTNmK/E6NGnDpXgKkuU8W9ewHwC+VKbl6RBwAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3NOQ6CQAAF0A8CAm6I+3ISK+NSWGtvJjgSIjARh0JPr4kmNkbjP8DL8wEfzUWqotM614m+7kTswd5omV18ABMD1jZVGi7M5IAgS3IZFeKoZ+dSFPpmwF6qMtdzE85KZCKWD/QyBmFMwlQIYxHGJoxDmCphXMJ4hPEJU/thph9M/WnCt4mUSPeqkN+mBqWalGpRKqBUm1IhpTqU6lKqR6k+pQaUGlJqRKnxfwq4A8m+I0K9BQAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAABXBOw9AMBQG0K+iQgejH2P0GMzsclFNo49Er8G/F+coQKHuXNyvMbDldyFTQU6sfVIAhEA+u8iiRGYPNN4Gvd90cmscpbRukdlpAdnHJ3CeoRjIk9H4feg3mBddAAAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LOQ7CMBAF0G8TZzGIkppzpEIsBTX0aAhOZBHbIkwKOD0gUVCief2zgMV83afmuovs+XGkroLZswt3C2CmkB36xCih/QWL4KNrBmq5vo008PN0/lQFs0lj5JVGvqVAnXvX71TiqcVzIp6ZeBrxzMWzEM9SPCvxtOI5/WsufyfwAqkquTfbAgAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAALXSO2/CMBQF4GOH8MiAQsqjY8UvYK7UDgUG5rAjk5gQkdgS3Fbqv2+KDRWt1cmMV7rHn4/lCIjQf6t0dlgqKulzLYoewhXJ+hQB6DG00kpTpwte5ujXpZLZUezo+VQWiiGc63dFjKO9ELUoZBOxidgkHn8SUmV7oUjmm63Wh2s2QkDfaJKSPsp8abZqqeh8A84RVB8VAn4+bwo7MzO3m42/+MATzizWMtjMiSX3aRpfmnIzvzjxB8/4FbttnjjxoedntvirExt5bmqbPeH3B3PhY89N/8Um98G6txjwBT0+1Df9AwAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LSw6CMAAFwFcEhKqI/99NXBnRhWu9QIO1aYSSYDXx9rrwAr7ZjwQksn3VlPej89a/L8qkiE5e1w8JYCMQnqvGI0Fgr8hr63TZqpvfmla9dCUQFc3T+V2A+KBqZfQ3/Y4gTkCcDnFC4kTEiYnTJU5CnJQ4kjg94vSJMyBORpwhcXLijIgzJs6EOFPizIgzJ86COEvirIiz/ucAH7aKLL6fBQAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAJ3LoQ7CMBAG4L9lHaMCwRPwHCgCQ6DBk0spS7O2l2yH4O1BIHAk9/nPAx7rQ+YwnqokeV1pWMGdJZbZA+gMmktmQQeb7tiUVGOY6CG7wJRvPEUDd+Rnlb1F21OhIX7adxnVsqq1UK1GtZxqtaq1/Lu2vwt4A4X2Bg3TAQAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAO1Wy27TQBS9edYJfTd9UFgYsSggNRIsKOoG+oJGaqFq0gUrM7ZvnVEnM5Y9KYQv4AfgF8KeFWKXT2HNRzC2ayetLSQqpatmE8Xjc8+5Z07uTBWgCtPbTFhne1xS2WsRpwKlhsSOXwWAezkoNpmQoEGe2jDboRwtj5zKTZNwjl4OSjuiy2W+CgVJnIxa2hGREj0elstrMHHxG/JSFgI0Ex4En9El8/KSAkJ5l3SIgzAFF5JykaSFoSTktuFLwTFWtTSEQQzLR7DaEOa0iS8NiSTpZjIDV4hwM0Ocf9ZlLIaUhpBSDClGkJURKiY+hgoNu+vLGPsqNm/Cpr7LSE+D4lvSQZgc9J+/EczWd9XboyYkqkrjpyiPn2IiReGhHTGYQZxiitUMrDZ+eZWIYu5y0jxhJ7UzQNUItDiiS5EYvOs4KP8FvJPKtaXUGiYZhu1BBmwy5QNyq024RNswhUg8zEU+VGC+KYWyeS96q4Nchn/RXB4K7JwF30E9PdORqZRGRlzqG6pgzFPPgE2npogrJBX8ijYNykfh89FufOkJ7hhtJIxyJ0vUTPqfHTiu3hZXU1CAyj618TUjjq8KvBymogLFA9WFFs6ch4P+i0Ff/P72s4ncpybDlhDMFJ/0R83W9mOdqjEJy4P+RlN6hDvIenoQPsVYr9fjfKl13FOj0qGf0dbDpDUCSaC2YEtKj5pdiYfCpqcUvWgLiqCdnDR2D4UvP3xpLLi/9n8UoRI8OkA1q76vtr6u/6k/LUN5qxN0dTEk1QidSiqG3DUHFTO16mqwEussckw1/85Fj4QOh6hI6P21J633R3trmzrGcgMDQ/+qmTGYvXX8hh2fu3X8hh2fv87wXxjroKulqqtdUbuTVM/ALF4Ds3Sd1pdT96RT1UcSztkMyErqqFQ86BmuupIlZ14+A3g3fSeTdHhdKF098keCXw4ut4M+OcBzZHpDX9cP0aYWYXqz67qsp5Zrg753jH5wSvr6M31fqZF+BNtQeT+mTlvqO0wRqge6FHrXxzhnlUHfarpB45mhWv0vZwH+AgQfpQ+nCwAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAALXSyU7DMBQF0OdMpKZtSiktw5+wZFiwQ4J95DauiUjsynUV9e9BpI4jYqFEwpssIp37fO2HATBMHwqx+XzmKlfHd8JGEL4oWu4xANwhCN4KoSAGL89gUuacbiTZqvvsSBGEj+LA1diD6ImUhFHw4QRQDVYGHGlRiCrdfn+o1NQ3FDT1arowVNLsl4uMC7TzezjPuFC7YJiLtQt7uMDSL+rhsHFIu7PaLVtvIA7rgqa7gnBlOWkj46GyudNRL4ksLXFnYyhjf4HzYc/QbNq4djPj1oRzY5Cl1qTHrJbztJvWLjGOSCkqTeaWWklnFPsge5UqSppRicXNhm1XpN1F5zp2QuWCN7Uw+IqwGKLXn//tMhVRVILlMHMXoZcuQhcuQq9chC5dhK5chF67CL1xEXr7r6EAX+ICVSMfBwAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAO1WzXIbRRDulWRbEvFP/EdwDgzkYJuKVTZQEMwBHNtJVJUQV6RQxUmMtC1pSrMzWzMjy+IJeAF4BXHnRHHTo3DmATgRenctS442xlAhJ1Slqv2Zb77ub7q/3iJAERbuS93oHCsnXL/KWwWYKTsMbBEAbnuQq0jtIA8Z4cNSIBQ2DG+6/VA7oZUHM4e6q5xXhKyLoCuHXet0cBK/PW42seHijTwP5g6CukBa68F8pa17J9w40ZBovSzkj7qGR5AXL/78w4NM2S96UDgIQimaAg1AFgqPhI8PJG9Z2o7lYTbhgPVxTEKdCivqQlIiRZjzhQ0l7xcg91gbzBMsQ//V4eDTj3acCNCyI2GdkBL9POS+4gHC0nDQfNa1VnDFvtZ+h0eY2SMe8BZGWSRqeIkaK2PmVleFuuejGQmSTQQZRzFimB8OPqmIpkOfPTWYun0m2X51vL1C10ZjeKMz2v/LFFz2X+Jy18AtpuBmEtzihAySWzuCZFIgswlk8syMVrVQNDr8DKeqKYeq0Y7LJwNZeSohm4nx76fqNjd1LA0SvlbnUl4cSwosP5UGN0b3rlKskEAWxpCe1mkk3ghRnNK4paVfE6pF5XQ57emauT0cmIe0nJWj5YwKeGtvd+eQU8tspyrx1pTMdcm/w9rlGj3ne6m1vkjtnBzcGQ7uDQf6tx9/qaCiLpNYpZzr+oxtVar3t5kgz4D3KLaKDjBpL9/oMKRCbxodsDgCW4Io/Meaele1WHS8XLmAXIEFvM/aKMMSbNKKQ01moZC5trCsJ1ybRYXCtGGRbswnlylNNC2WVRON4pId0RsowPKBc0bUuw6faD/2kMSGcpB//rx89ERb9+335ZXw10c/56AQPXqM3LqfNqo/7Pxe2puF2YMg0gjOf3mYv9gxJl1toUIjGiXuHPVJcgIk5dMQEydLUEmE65sfVL85Od7cZ+I8ziiBYurZ3fjfaifUmJ9qzqYU6qJlVlIgCwnk1qQt6R5JpbAWyf637XaDLDput7iW0qJanKI4r2T0a3WtO1NntVxxpIt/PK53m2JrS6lkS6+JLHtOlkvIGLzsqZfv76QGc/M1BZN5BbmX3D9IJV9+k7KvvEmy1f+GbD2VbO0asyjzT2bRvatm0frUVE5mkdH+VV389jW7eCYFe2v6+2yEHcE2UmDvJLC1McwXPNDKr6V+mwSBrudjdPEZhlyY/b3d3VQvnIUdMrvjU1Q0uEw0+OjzirW5sW20jukm61q0d9mJ4djq2k34kJY/lLwhooGWxMAOzpD5mpxUkewWMWBOs75A6d+lRwZuEqbJhYxmZN0g75QiI/tsOFBJdPBxZLjxpaVjq+/tlnbpSRQRT3ychZqs1TI8RdNnpALNOvic1mxVoynMQxoRxK+V7DPRjHOIhj6jd0IxzqKs0dA1JUrV2d8e1cy7FMcoN5aSV2rdbFz9WbY2CQH4C4EP3mnJDAAA
+          blockMaterial: PURPLE_SHULKER_BOX
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAAO2VTY/SQBjHn04LtNVdcXnZFw+iJt5MTDyYeFsB4ybGbBbjlQztABOmM6QzsPKJ9nvsp/Lk2lLeOwSWgCcPPUza//Ob5/+81AVw4fgzE16vzhVVox+440DmSpFAugDwwgCrwYQCGxD1oRhQTrwQt9UnGgrepLwjlAGZqhhwdYwgW8MB7pBIONEZiS4/1/WFooJPNYYLpoqRhepAKhFcj9/W223iqfEFDANyl0GLkuhbA44aXXF7jUNFPUakYYJdG4Q4ljw8/PltALryXQOcy6DPaJuSEMAE5yv1yReGOzIKV7EhmzCgvJALH1JJW5RFBriQ86nsMzxywPomQmJHMhQ9xfu7jx/eKRoQWalRqShjxLfB+o4DAvn7u/bNQEqKeeWn8Hs41qTcQP/dWHDDTNw4n5N9igPB/Wafej38i6RssQj3urEPCIHJhgwsNA5RgcnZTM5vtDxrd565hmck51cr/Ndafibhn6X5siuGhK3HG6s4Xfjs2vBdwgKitnYTtsoml+plwkYqxDOMRmPvoHESzelc0wrJbbR4mlJh7k+llkbqJtLSXOqJVisaFSX4rNgvNcInKebUypYQSm4uFEqcs7XOPd01OlqO7mxVp6OEdpGmMdLpRD5uAXxUYxzv3IfmJtzyGGQX8aUp/tlBa5dPb3CGeW8WFmk0z1Nt2KayG3dwKHxN67+dCk9STsZ3xVyRcTK9VC4nDRWtaL+efBVEfwm5WEZzxddJpgVtpoU9wVd2l341F/cMQ9NMdbDS42AmuDekj2lYFVLFXbrRZ6T3WT8u5T0XeTI871eGp6yFn/5L388O01F5Lez8MJnpYRd7hk1qiJZhAH8B38/iIK4LAAA=
+          blockMaterial: PURPLE_SHULKER_BOX
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: PURPLE_SHULKER_BOX
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          internal: H4sIAAAAAAAAALWVyW4TQRCGy0sc2+A4e0jg0CxSAhJGnEC5QDaIpYRE2JHgZNqe8rjlnu6hp02WJ+AF4BXMnRPi5kfhzEPQ47E9Fp44UaL4NuP+/qquv6omC5CFqU0ua80doZk+LVM7AxNFjY6XBYC7MUiWuNSQhjizYMlhAmuK1vW612jxJqqK10DOYzCxJVtCv45Daps61EbD9tDY5dB7EWg8QGeGUOpyJuw+FMtCQlM7C5MW81xOT9OQfEcdhPlOu7bhuhzJAW2SUkABRMRIBDGmwxiu1EyK/0KkIXXYfQ/58OQx1aiiRJM3IToRiC6ER2uyWuXoaSlwnAOpm8hmciQbFJYx1UWqBqZOR4Dpq4KZq4LZi9oofV4b5TptVVRSkENOhY7sn1uB+HIobjHqSGFVXFZr0pOBM7EI+HYAz4ewQqtS5/IYVQQX63O5EUc9rYYulIiINRUwiyFT5fQMK648tsJoM0EpEpDZZRa+4dT2jMSrsDQZSO5JhWnzNgkPO+2Xnbb88/1XCYXHTDOWpeRVeULWSuXNx4SZPQL3O+0XJemgZg56xFLSddEidSUd0s3AKwAxR/akaT5hExS1him2g0ITh54SsyTcAqyaE1vSqZrkiW4wjxwz3SDM90YqYktuEavl6ULfuelOG4uijkpQTrbNP5CB2Q1tqlRtadyXFqszVN0dF0tC+uiouL0vPf3pa3HO/b37MwkZ/9UeUk//WCl/e/q38DwFqQ3HrxH0fmnIDRSDrWOjQMVqBao1rTUDB0wpD1xUtDtZXSrIcHH1Sfnj4c7qOmG9PP0LZCObLB94NzXkN7MH8xuPIKav3POzpuffmg7srpUxjT9zranaksaX88VnLxJfO098xoi/R+ui7Ocus0yfRYDzI6DffBXRsm3UfTAVAS5celEEVzOD5o+C36HG4AT/wsGsAl/iPvSeE8Hzg+EbpvrxFq8fLxnokzHxYh/68ZZGLOvFG/dpujMCoWNmhQ+gRxHQ8sjW/NyiSp9VzF4aF2wl4HJDGZ4OgHwI5A3yD7lz7rYZCQAA
+          blockMaterial: PURPLE_SHULKER_BOX

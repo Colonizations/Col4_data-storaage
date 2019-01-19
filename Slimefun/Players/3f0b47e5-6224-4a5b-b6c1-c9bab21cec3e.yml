@@ -1,0 +1,484 @@
+researches:
+  '86': true
+  '0': true
+  '1': true
+  '2': true
+  '4': true
+  '5': true
+  '6': true
+  '8': true
+  '9': true
+  '7': true
+  '10': true
+  '11': true
+  '12': true
+  '13': true
+  '14': true
+  '15': true
+  '16': true
+  '17': true
+  '18': true
+  '19': true
+  '20': true
+  '21': true
+  '22': true
+  '23': true
+  '24': true
+  '25': true
+  '26': true
+  '27': true
+  '28': true
+  '29': true
+  '30': true
+  '31': true
+  '32': true
+  '33': true
+  '34': true
+  '35': true
+  '36': true
+  '37': true
+  '38': true
+  '39': true
+  '41': true
+  '42': true
+  '43': true
+  '45': true
+  '46': true
+  '47': true
+  '48': true
+  '50': true
+  '51': true
+  '52': true
+  '53': true
+  '54': true
+  '55': true
+  '56': true
+  '57': true
+  '58': true
+  '59': true
+  '60': true
+  '61': true
+  '62': true
+  '63': true
+  '64': true
+  '65': true
+  '67': true
+  '68': true
+  '69': true
+  '70': true
+  '71': true
+  '72': true
+  '73': true
+  '74': true
+  '75': true
+  '76': true
+  '79': true
+  '80': true
+  '81': true
+  '84': true
+  '85': true
+  '87': true
+  '90': true
+  '92': true
+  '94': true
+  '95': true
+  '96': true
+  '97': true
+  '98': true
+  '99': true
+  '101': true
+  '105': true
+  '106': true
+  '107': true
+  '108': true
+  '112': true
+  '115': true
+  '116': true
+  '117': true
+  '118': true
+  '119': true
+  '120': true
+  '124': true
+  '126': true
+  '127': true
+  '129': true
+  '130': true
+  '132': true
+  '133': true
+  '134': true
+  '135': true
+  '136': true
+  '137': true
+  '138': true
+  '139': true
+  '143': true
+  '144': true
+  '145': true
+  '146': true
+  '149': true
+  '150': true
+  '151': true
+  '152': true
+  '155': true
+  '156': true
+  '157': true
+  '158': true
+  '159': true
+  '161': true
+  '165': true
+  '166': true
+  '167': true
+  '168': true
+  '169': true
+  '170': true
+  '171': true
+  '172': true
+  '173': true
+  '174': true
+  '175': true
+  '176': true
+  '185': true
+  '188': true
+  '190': true
+  '198': true
+  '205': true
+  '207': true
+  '208': true
+  '209': true
+  '216': true
+  '220': true
+  '227': true
+  '228': true
+  '229': true
+  '230': true
+  '231': true
+backpacks:
+  '0':
+    size: 45
+  '1':
+    size: 36
+    contents:
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_CLAY
+        damage: 3
+        amount: 2
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 12
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 63
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Freshly Baked Bread
+          lore:
+          - §fThe freshness of this bread make
+          - §fit superior to all other breads
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        damage: 250
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: 9Diamond Leggings of the Elder
+          lore:
+          - §fExtracting nutrients from the ambient
+          - §fatmosphere, Diamond Leggings of the Elders will
+          - §fensure the wearer will not starve.
+          - §9§nSaturation
+          - §fRestores §b2.5§f hunger points and §b6.3§f saturation every minute
+          - §f(This applies only to items that are worn or held)
+          - §9§nFragile
+          - §fDamages the item by §c0.26§f durability when used
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 2
+          repair-cost: 7
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGIQCE4sKS1KLMnMz7MyMrUyM2bgcitKTM/MSbUyMmMAAIKiKjAuAAAA
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        damage: 248
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_SWORD
+        damage: 26
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §cBlade of Vampires
+          lore:
+          - §7Life Steal I
+          - ''
+          - §rEverytime you attack something
+          - §ryou have a 45% chance to
+          - §rrecover 2 Hearts of your Health
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 4
+            FIRE_ASPECT: 2
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BRICK
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fThrowable Dynamite§f
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BRICK
+        amount: 31
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §fThrowable Dynamite§f
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_HELMET
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cScuba Helmet
+          lore:
+          - ''
+          - §bAllows you to breathe Underwater
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEATHER_CHESTPLATE
+        damage: 12
+        meta:
+          ==: ItemMeta
+          meta-type: LEATHER_ARMOR
+          display-name: §cHazmat Suit
+          lore:
+          - ''
+          - §bAllows you to walk through Fire
+          - §4§oPart of Hazmat Suit
+          color:
+            ==: Color
+            RED: 255
+            BLUE: 0
+            GREEN: 165
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        damage: 87
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            VANISHING_CURSE: 1
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_PEARL
+        amount: 13
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS_BOTTLE
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Freshly Baked Bread
+          lore:
+          - §fThe freshness of this bread make
+          - §fit superior to all other breads
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: §fRussian Vodka
+          lore:
+          - ''
+          - §73-times Distilled
+          ItemFlags: !!set
+            HIDE_POTION_EFFECTS: null
+          potion-type: minecraft:invisibility
+          custom-effects:
+          - ==: PotionEffect
+            effect: 10
+            duration: -264
+            amplifier: 0
+            ambient: true
+            has-particles: true
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_ORE
+        amount: 10
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        damage: 40
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        damage: 784
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Sword of Frostbite
+          lore:
+          - §fThe sting by Elongated Diamond Sword seems to be
+          - §ftoxic.
+          - §9§nPoison
+          - §fPoisons targets (Strength §b2§f) for §b2.5§f seconds
+          enchants:
+            DAMAGE_ALL: 3
+            DURABILITY: 3
+            KNOCKBACK: 1
+            FIRE_ASPECT: 1
+          repair-cost: 15
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDsjPLM7PszKyMjVgAAB6acvcHQAAAA==
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Cat's Shadow Bow
+          lore:
+          - §fThe silence of the night torments those struck
+          - §fby Shadow Longbow.
+          - §9§nShroud
+          - §fBlinds targets for §b2.75§f seconds
+          enchants:
+            ARROW_DAMAGE: 2
+            ARROW_KNOCKBACK: 1
+            ARROW_INFINITE: 1
+          repair-cost: 15
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDM4oyi9NsTI1ZQAAtmtK3BsAAAA=
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Seawater Intake Mesh
+          lore:
+          - §7A fine iron mesh that allows seawater
+          - §7to recharge the suit's tanks when immersed.
+          - §fAllows sea ponies to travel on land
+          - §fas easily as they would in water.
+          - §3Seapony Unique Racial Armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCUotSMwssjI0AAJWBgHnosS0EoWg1OKCzKLEkvwi5yqgMgA94KaDNQAAAA==
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Seawater Containment Unit
+          lore:
+          - §7A giant translucent tank is mounted
+          - §7on the back of this suit.
+          - §fAllows sea ponies to travel on land
+          - §fas easily as they would in water.
+          - §3Seapony Unique Racial Armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCUotSMwssjI0AAJWBgHnosS0EoWg1OKCzKLEkvwiF84GBgYA3yg5qTUAAAA=
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Seawater Recirculation Pump
+          lore:
+          - §7An intricate tangle of tubes surrounding
+          - §7what looks like a diving helmet.
+          - §fAllows sea ponies to travel on land
+          - §fas easily as they would in water.
+          - §3Seapony Unique Racial Armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCUotSMwssjI0AAJWBgHnosS0EoWg1OKCzKLEkvwi5yqgMgA94KaDNQAAAA==
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §3Seawater Conversion System
+          lore:
+          - §7Integrated servos and wires connect
+          - §7to other components, harnessing kinetic
+          - §7energy to power the suit's other functions.
+          - §fAllows sea ponies to travel on land
+          - §fas easily as they would in water.
+          - §3Seapony Unique Racial Armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgCUotSMwssjI0AAJWBgHnosS0EoWg1OKCzKLEkvwipxNAZQCcT70JNQAAAA==
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          display-name: §aSlimefun Guide §7(Chest GUI)
+          lore:
+          - ''
+          - §eRight Click §8⇨ §7Browse Items
+          - §eShift + Right Click §8⇨ §7Open Settings / Credits
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        damage: 293
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        damage: 37
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Stormbringer
+          lore:
+          - §fThrough primal energy, arrows fired by
+          - §fStormbringer seem to explode on impact.
+          - §9§nExplosive Arrows
+          - §fArrows hitting entities will explode, where the
+          - §fexplosion has radius §b3.4m§f and does §b3.9§f hearts
+          - §fof damage at the center of the blast
+          enchants:
+            ARROW_DAMAGE: 1
+            ARROW_KNOCKBACK: 1
+            ARROW_INFINITE: 1
+          repair-cost: 7
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQc60oyMkvzixLjXcsKsovL7Yyt7AyNmEAAPdsSuwoAAAA

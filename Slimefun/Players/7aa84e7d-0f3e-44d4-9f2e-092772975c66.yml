@@ -1,0 +1,1433 @@
+researches:
+  '30': true
+  '6': true
+  '35': true
+  '38': true
+  '18': true
+  '139': true
+  '53': true
+  '34': true
+  '98': true
+  '28': true
+  '55': true
+  '97': true
+  '54': true
+  '105': true
+  '108': true
+  '106': true
+  '86': true
+  '120': true
+  '228': true
+  '156': true
+  '155': true
+  '8': true
+  '229': true
+  '151': true
+  '50': true
+  '133': true
+  '132': true
+  '138': true
+  '42': true
+  '9': true
+  '1': true
+  '92': true
+  '99': true
+  '107': true
+  '134': true
+  '95': true
+  '136': true
+  '135': true
+  '129': true
+  '121': true
+  '166': true
+  '37': true
+  '20': true
+  '43': true
+  '137': true
+  '21': true
+  '115': true
+  '116': true
+  '41': true
+  '169': true
+  '206': true
+  '198': true
+  '174': true
+  '152': true
+  '146': true
+  '47': true
+  '36': true
+  '45': true
+  '19': true
+  '48': true
+  '190': true
+  '167': true
+  '84': true
+  '182': true
+  '234': true
+  '207': true
+  '32': true
+  '171': true
+  '208': true
+  '209': true
+  '72': true
+  '176': true
+  '173': true
+  '185': true
+  '179': true
+  '180': true
+  '162': true
+  '205': true
+  '163': true
+  '177': true
+  '183': true
+  '17': true
+  '16': true
+  '184': true
+  '187': true
+  '210': true
+  '181': true
+  '203': true
+  '230': true
+  '168': true
+  '231': true
+  '186': true
+  '164': true
+  '165': true
+  '194': true
+  '172': true
+  '144': true
+  '33': true
+  '90': true
+  '145': true
+  '51': true
+  '157': true
+  '29': true
+  '96': true
+  '56': true
+  '67': true
+  '117': true
+  '130': true
+  '119': true
+  '85': true
+  '23': true
+  '22': true
+  '11': true
+  '68': true
+  '65': true
+  '70': true
+  '71': true
+  '64': true
+  '75': true
+  '69': true
+  '62': true
+  '61': true
+  '59': true
+  '76': true
+  '60': true
+  '63': true
+  '112': true
+  '58': true
+  '122': true
+  '74': true
+  '142': true
+  '159': true
+  '158': true
+  '10': true
+  '14': true
+  '7': true
+  '93': true
+  '100': true
+  '127': true
+  '216': true
+  '222': true
+  '103': true
+  '24': true
+  '27': true
+  '89': true
+  '26': true
+  '220': true
+  '170': true
+  '227': true
+  '178': true
+  '217': true
+  '226': true
+  '79': true
+  '80': true
+  '81': true
+  '150': true
+  '202': true
+  '204': true
+  '199': true
+  '188': true
+  '175': true
+  '40': true
+  '52': true
+  '31': true
+  '46': true
+  '87': true
+  '101': true
+  '104': true
+  '91': true
+  '118': true
+  '124': true
+  '189': true
+  '212': true
+  '200': true
+  '197': true
+  '193': true
+  '192': true
+  '213': true
+  '25': true
+  '126': true
+  '57': true
+  '218': true
+  '219': true
+  '143': true
+  '0': true
+  '15': true
+  '39': true
+  '94': true
+  '77': true
+  '123': true
+  '125': true
+  '73': true
+  '2': true
+  '5': true
+  '12': true
+  '13': true
+  '149': true
+  '160': true
+  '235': true
+  '154': true
+  '161': true
+  '191': true
+  '196': true
+  '195': true
+  '236': true
+  '233': true
+  '224': true
+  '223': true
+  '211': true
+  '201': true
+  '214': true
+  '232': true
+  '221': true
+  '215': true
+  '225': true
+  '4': true
+backpacks:
+  '0':
+    size: 27
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL_BLOCK
+        amount: 60
+  '1':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE_DUST
+        amount: 30
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Gold Dust
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 60
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Phantom Bow
+          lore:
+          - §fCoursing with energy, Phantom Bow seems ready to
+          - §fstrike down any opposition.
+          - §9§nCharged
+          - §fDoes §b265%§f more damage and splits
+          - §fdamage between §b6§f targets
+          - §fCan spread to targets up to §b8.7§f meters away
+          - §9§nRepair
+          - §fDamages §c0.5§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGIQcM5ILEpPTbEyMjO1MrOyMGfgDEotSMwsstI1ZQAAEWn/Cy0AAAA=
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Shining Bow
+          lore:
+          - §fBurning with desire, Shining Bow bypasses most
+          - §fprotective spells of Malevolent creatures.
+          - §9§nArmor Shredder
+          - §fPenetrates §b168§f points of the Malevolent mobs' armor
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQcSzKzS+KD84oSk1JSS2yMrAyNLNgAAAnvdb/JgAAAA==
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HOE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Caramel's Sparkling Device
+          lore:
+          - §fAgainst everything, elaborate enchantments allow
+          - §fCaramel's Sparkling Device to resist decaying
+          - §fwhen used.
+          - §9§nRepair
+          - §fRepairs §b9.0§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgDEotSMwssrI0YAAAHDYEPxsAAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BALL
+        amount: 64
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BALL
+        amount: 64
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 30
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: SUGAR_CANE
+        amount: 18
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 2
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: PUMPKIN_PIE
+        amount: 3
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 57
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 5
+        amount: 2
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+        damage: 1
+        amount: 3
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BRICK
+        amount: 3
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 60
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §r§nTermination OFF
+          lore:
+          - §7Subsequent modules in the
+          - §7Item Router will process items
+          - §7as normal.
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        amount: 2
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: ANVIL
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 3
+  '2':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: CLAY_BRICK
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§eI.R. Mod: Stack Upgrade'
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Insert into an Item Router
+          - §7Passive module; each stack module
+          - §7doubles the number of items moved
+          - §7per operation, up to the item's max
+          - §7stack size.
+          - §7Any modules over 6 are ignored.
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyqrhUSGeCqbqVQDFKcm59SmpMKdA8A0LfWCKsAAAA=
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 16
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+        amount: 13
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 14
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '§eI.R. Mod: Receiver'
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Insert into an Item Router
+          - §7Passive module; receives items
+          - §7from a facing Sender module OR
+          - §7linked Adv. Sender module
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyhrhUSGeCqbqVQlJqcmlmWWpSbn1Kakwp0EgBChe6prgAAAA==
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: PISTON_STICKY_BASE
+        amount: 2
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BARDING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_INGOT
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBlank Item Router Module
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Used for crafting active
+          - '§7 Item Router Modules '
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyqrhUSGeCqbqWQlJOYl52bn1Kakwp0DwB6UvvWqwAAAA==
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Praegus' Slim Bow
+          lore:
+          - §fSwiftly, Praegus' Slim Bow allows the owner to
+          - §fhit targets from afar.
+          - §9§nLevity
+          - §fArrows fired from this bow will be §b75%§f faster and have
+          - §fthe damage §bincreased§f by approximately the same amount.
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTg90ktyyyptEpLzClOtTI3ZQAAdWKygSEAAAA=
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Diamond Boots of Jumping
+          lore:
+          - §fDiamond Boots of Jumping refuses to break,
+          - §fhowever. It keeps mending itself. The magical
+          - §fprotections of It prevent the wearer from
+          - §fwithering away. Yet the composition of It
+          - §famplifies electrical currents.
+          - §9§nRepair
+          - §fRepairs §b10.2§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §9§nEntropy Limit
+          - §fReduces wither-based damage by §b33%§f
+          - §9§nShock Absorber
+          - §fIncreases lightning- and explosion-based damage by §c13%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgCkotSMwssjI0MGIQcM0rKcovqIz3yczNLLEyNmYQCs7IT86Od0wqzi9KSi2y0jU0ZgAAmhTOwEIAAAA=
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            VANISHING_CURSE: 1
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_PROJECTILE: 4
+            MENDING: 1
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DEPTH_STRIDER: 2
+            PROTECTION_FIRE: 3
+            VANISHING_CURSE: 1
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            VANISHING_CURSE: 1
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 3
+            FIRE_ASPECT: 2
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            MENDING: 1
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            SILK_TOUCH: 1
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_PROJECTILE: 4
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 2
+            DURABILITY: 3
+            PROTECTION_FALL: 4
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            MENDING: 1
+            PROTECTION_EXPLOSIONS: 4
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: ELYTRA
+      '31':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            MENDING: 1
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            KNOCKBACK: 2
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            MENDING: 1
+            DURABILITY: 3
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 15
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 3
+            DURABILITY: 3
+            WATER_WORKER: 1
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+            MENDING: 1
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+            DURABILITY: 3
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_FIRE: 2
+            DURABILITY: 3
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+            DURABILITY: 3
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            MENDING: 1
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 3
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: END_ROD
+        amount: 8
+  '3':
+    size: 45
+    contents:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: STONE
+        amount: 46
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: GREEN_RECORD
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BARDING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: STRING
+        amount: 37
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: SULPHUR
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: GREEN_RECORD
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: GREEN_RECORD
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: ARROW
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: NAME_TAG
+        amount: 6
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: CARROT_ITEM
+        amount: 4
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: SADDLE
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_RECORD
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: GREEN_RECORD
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_RECORD
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '34':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLDEN_APPLE
+        amount: 2
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_ORE
+        amount: 8
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_INGOT
+        amount: 2
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_RECORD
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_RECORD
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Caramel's Almost Worthless Diamond Sword
+          lore:
+          - §fDeep within Caramel's Almost Worthless Diamond
+          - §fSword lies an immense cold, radiating outwards.
+          - §9§nFrost
+          - §fSlows down targets by §b60%§f for §b3.8§f seconds
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdSvKLy6xMjOwMjezMmAAANJyKpkfAAAA
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Diamond Spade of Haunting
+          lore:
+          - §fWhile used, Diamond Spade of Haunting heats the
+          - §fsurroundings with interesting effects.
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGRg90hNLElNsWIAAKs3gBYZAAAA
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Perfected Diamond Spade
+          lore:
+          - §fTo Perfected Diamond Spade, mere dirt, snow,
+          - §fsand, such materials were no more than
+          - §ftrivialities. Heat stored in Perfected Diamond
+          - §fSpade infuses with what It harvests. Alas, It is
+          - §fnot meant to last forever, and will eventually
+          - §fshatter.
+          - §9§nEarthmover
+          - §fDigs a §b3x3§f space of dirt, grass, sand, gravel, snow
+          - §fand mycelium centered on the block being right-clicked
+          - §9§nHeated
+          - §fAutosmelts the harvested blocks, if they can
+          - §fbe smelted in a regular furnace
+          - §f(This is disabled while sneaking)
+          - §9§nFragile
+          - §fDamages the item by §c0.37§f durability when used
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgdk0sKsnIzS9LLbJiYPdITSxJTbFi4HIrSkzPzEm1MjZnAACFoWq1MgAAAA==
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BARDING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BARDING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HOE
+        damage: 38
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Stormclaw's Greater Diamond Hoe
+          lore:
+          - §fEven during the harshest of uses, Stormclaw's
+          - §fGreater Diamond Hoe does not seem to yield, nor
+          - §ffail or break. Natural forces emitted from It
+          - §fimprove the growth of vegetation. But It has an
+          - §funsavory hunger.
+          - §9§nRepair
+          - §fRepairs §b11.1§f durability points every minute
+          - §f(This applies only if the item is in a player inventory)
+          - §9§nGrowth
+          - §fWhen right-clicked, this tool will accelerate the
+          - §fgrowth of crops, grass and vegetation.
+          - §fIt will also be able to grow trees from saplings
+          - §9§nHungry
+          - §fHas a §c14%§f chance of eating food or other items
+          - §ffrom the inventory every minute
+          - §f(This applies only if the item is in a player inventory)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGbgCkotSMwssjI0NGRgdy/KLy/JsGLg9CjNSy+qtDI0YQAAFfDIFzAAAAA=
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: §eLand Marker ： -2445,92,169,Zyrren
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Stores positions via Sensible GPS
+          - '§7R-Click block: store position'
+          - '§7R-Click air: clear position'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVhxRnl+Uk+KZYqWQZmhpnGpgbKmbbJZkomuSmGaqm2hqnKprYJqWZGhoaGpkmmLKVWGloGtkYmLKVWmlYGnEVWWlYGhmyaWuFRIZ4KpupZCTmJeSm1iUnVoE9BIAUmKj/O4AAAA=
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: FIREWORK
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          display-name: §eLand Marker ： -2371,43,211,Zyrren
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Stores positions via Sensible GPS
+          - '§7R-Click block: store position'
+          - '§7R-Click air: clear position'
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCVhxRnl+Uk+KZYqWQZmhpnGpgbKmbbJZkomuSmGaqm2hqnKprYJqWZGhoaGpkmmLKVWGloGtkbG7IVWmlYGLMVWWlYGRoyKWuFRIZ4KpupZCTmJeSm1iUnVoE9BIAf+5/bu4AAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §7Cargo Node §c(Input)
+          lore:
+          - ''
+          - §rCargo Input Pipe
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXklAhNJDD4Zqu6S7yk9L2Ruwi1B224aCKftUPqIcPU5mRgfQ4SluByG+unPVCK7BPWLwbLOyqDxmG6yau8arxy0jdwvPMN1ibpWewxyW66BP04V3fcOvM9B6fuuHjl91ALjT4HGfi4HDLx8Dkx5qkx0CUY7InTiJTfGJjpc5Ou3HwkcukpPfvLnbcfGvdfo8dURmBzU9hUMh9+bWjgTfRFYpdz84oS1O8S1LMidLSEsTIWmKHXIMaqJYQ4+kwXKniKItXSErU982fnlXdFVLnEQSp1GLVWjR9Ycga2yik7WowuUSQIMHkksOMz/2zx3fNgXAH85nkL8qAQAA
+          skull-owner: CSCoreLib
+      21_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkMWMxYTY5YTNkZTlmZWM5NjJhNzdiZjNiMmUzNzZkZDI1Yzg3M2EzZDhmMTRmMWRkMzQ1ZGFlNGM0In19fQ==
+        custom-skullOwner: CSCoreLib
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        damage: 1
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §5Wither-Proof Obsidian
+          lore:
+          - ''
+          - §rWithstands Explosions
+          - §rWithstands Wither Bosses
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 11
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §eBlank Item Router Module
+          lore:
+          - §8§o▹SensibleToolbox (STB) item
+          - §7Used for crafting active
+          - '§7 Item Router Modules '
+          ItemFlags: !!set
+            HIDE_PLACED_ON: null
+            HIDE_ENCHANTS: null
+            HIDE_UNBREAKABLE: null
+            HIDE_POTION_EFFECTS: null
+            HIDE_ATTRIBUTES: null
+            HIDE_DESTROYS: null
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5J6PAULtjtsZmFgRMk5JOaWFyyQipkqu4bPUM2BjbH3PzSvBIGKOBg4IWb6JeYm8ogkp6al1qUmayXWFKSmJztkpibmJ7KzMDpX5BalFiSmZ8H0cUCViyqrhUSGeCqbqWQlJOYl52bn1Kakwp0DwB6UvvWqwAAAA==
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 5
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        damage: 1
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        damage: 1
+        amount: 63
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+        amount: 64
+  '4':
+    size: 27
+  '5':
+    size: 45
+  '6':
+    size: 45
+    contents:
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4Uranium
+          lore:
+          - ''
+          - '§2Radiation Level: HIGH'
+          - §4§oHazmat Suit required
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkn4aUEOHrSSdEkBBdqye2PZrfzstg0F0+WpfEQ5epzMjA6gw1PWjUJ89udjI7gG94jBs+O6FSs9z6C0soyltfSM8sWnhmVXJmUecxhzdNDn6cL7oeHXBWgDvw1jz686ANxp8Lgvxcjhl6vQJEVtsiIUlULuzHlmigS1Fw+d9oqukYvk7Ddv7lb5/9rVUB5WAjthTU5fI5V7c+ukgm9Sq5K7HzzVTdSKmsjAJh+kw1OnInunSB5MUZs2pP2+JTly4vxdxnbYYZnODV4mOZ4iGSjckjbK6y45EBHbgUWy0D8W5iuABg9xKTks1tn63PNtQwH+ABFXh2IqAQAA
+          skull-owner: CSCoreLib
+      1_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiMjlhZmE2ZDZkYzkyM2UyZTEzMjRiZjgxOTI3NTBmN2JkYmRkYzY4OTYzMmEyYjZjMThkOWZlN2E1ZSJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cSmall Chunk of Uranium
+          lore:
+          - ''
+          - '§eRadiation Level: MODERATE'
+          - §4§oHazmat Suit required
+          internal: H4sIAAAAAAAAAE2LzU6DQBgAP40mlPgYXkn4aUEOHrSSdEkBBdqye2PZrfzstg0F0+WpfEQ5epzMjA6gw1PWjUJ89udjI7gG94jBs+O6FSs9z6C0soyltfSM8sWnhmVXJmUecxhzdNDn6cL7oeHXBWgDvw1jz686ANxp8Lgvxcjhl6vQJEVtsiIUlULuzHlmigS1Fw+d9oqukYvk7Ddv7lb5/9rVUB5WAjthTU5fI5V7c+ukgm9Sq5K7HzzVTdSKmsjAJh+kw1OnInunSB5MUZs2pP2+JTly4vxdxnbYYZnODV4mOZ4iGSjckjbK6y45EBHbgUWy0D8W5iuABg9xKTks1tn63PNtQwH+ABFXh2IqAQAA
+          skull-owner: CSCoreLib
+      2_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzhiMjlhZmE2ZDZkYzkyM2UyZTEzMjRiZjgxOTI3NTBmN2JkYmRkYzY4OTYzMmEyYjZjMThkOWZlN2E1ZSJ9fX0=
+        custom-skullOwner: CSCoreLib
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_POWDER
+        amount: 37
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        type: SHULKER_SHELL
+        amount: 6
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        type: LEAVES
+        amount: 26
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '27':
+        ==: org.bukkit.inventory.ItemStack
+        type: ITEM_FRAME
+        amount: 4
+      '28':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BARDING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '32':
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 3
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §cElectromagnet
+          internal: H4sIAAAAAAAAAE2LzW6CQBRGb5s2QdLH6JaEHwVZuGig1SEyFkUQdjBeIzCDBqEBnqsPWJZdfuecTwaQ4e1QdZx/N7dLwVGCZ3KGd5YZjJm5pbB5ZirzDJdKrutM0c8qWtrSRsNcyiBPpzs2bYGPGUgt9m3X4EMGgCcJXqOMdwi/OHhqerqq55PH2UDMaYcHle9IebdIHQ25Q0wiJr/5MLeD/a9dtFm84InhXdM66HIRqVtjz3Gz15g4/iSxd92toyIZ9yUVn3M/ZKPvViodg8Uu9gTVj33qRpyOVKRxoCfjV5GUXum7Ew8rPXV9LY1JT0UwUDfp/fXRILVmX4LVCkCCF5oJhJlzcG4Nbosc4A8QR2u7LgEAAA==
+          skull-owner: CSCoreLib
+      32_extra:
+        custom-skull: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhOGViYzRjNmE4MTczMDk0NzQ5OWJmN2UxZDVlNzNmZWQ2YzFiYjJjMDUxZTk2ZDM1ZWIxNmQyNDYxMGU3In19fQ==
+        custom-skullOwner: CSCoreLib
+      '36':
+        ==: org.bukkit.inventory.ItemStack
+        type: ENDER_STONE
+        amount: 63
+      '38':
+        ==: org.bukkit.inventory.ItemStack
+        type: DROPPER
+        amount: 8
+      '39':
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSERVER
+        amount: 4
+      '40':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 54
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        type: SMOOTH_BRICK
+        amount: 34
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        type: OBSIDIAN
+        amount: 22
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        type: TORCH
+        amount: 13
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 3
+            MENDING: 1
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        type: GLOWSTONE
+        amount: 2
+      '41':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        type: DRAGON_EGG
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '29':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 3
+      '30':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9The Hag's Pants
+          lore:
+          - §fThe strength of The Hag's Pants will not yield
+          - §fagainst mere physical attacks.
+          - §9§nBulwark
+          - §fReduces physical damage by §b28%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgcirNKU8syrYysmAAAInG6PgcAAAA
+      '33':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Gaiter of the Troll
+          lore:
+          - §fNot even fire can bypass the protections of
+          - §fGaiter of the Troll.
+          - §9§nFireward
+          - §fReduces fire-based damage by §b31%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGTgdsssSi1PLEqxMjZkAAAvDxfHHQAAAA==
+      '35':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            FROST_WALKER: 2
+            DURABILITY: 3
+      '43':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '44':
+        ==: org.bukkit.inventory.ItemStack
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_healing
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        damage: 1
+        amount: 57
+      '37':
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE
+        amount: 49
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        type: QUARTZ_ORE
+        amount: 6
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Featherfall
+          lore:
+          - §fFeatherfall seems it would wither away itself,
+          - §fbefore allowing the wearer to be harmed. Foes
+          - §fare be unable to harm the wearer with magic;
+          - §fFeatherfall seems to ensure that. Although, It
+          - §fseems to drain the wearer of energy.
+          - §9§nEntropy Limit
+          - §fReduces wither-based damage by §b34%§f
+          - §9§nMagic Shield
+          - §fReduces magic-based damage by §b35%§f
+          - §9§nSaturation
+          - §fDrains §c8.1§f saturation every minute
+          - §f(This applies only to items that are worn or held)
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGYQcM0rKcovqIz3yczNLLEyNmHg901Mz0yOD87ITM1JsTI2ZRAITiwpLUosyczPszKw0rUwZAAAzNfIwkUAAAA=
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9Whisper of the Forest
+          lore:
+          - §fWhisper of the Forest seems to absorb even the
+          - §fstrongest of shockwaves and currents, protecting
+          - §fthe wearer.
+          - §9§nShock Absorber
+          - §fReduces lightning- and explosion-based damage by §b33%§f
+          internal: H4sIAAAAAAAAAONiYOBkYMnNzU/iYGBgYGQQDM7IT86Od0wqzi9KSi2yMjZmAABcf6qTIwAAAA==
+      '42':
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        amount: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 56
