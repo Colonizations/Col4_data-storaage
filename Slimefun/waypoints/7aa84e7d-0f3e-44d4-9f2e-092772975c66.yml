@@ -1,0 +1,160 @@
+GPS_CLOUD:
+  x: -2403.0
+  y: 255.0
+  z: 182.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: Gps Cloud
+GRINDER:
+  x: -291.0
+  y: 249.0
+  z: 75.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren_nether
+  name: '&8Grinder'
+CHARCOAL_OLD:
+  x: -2347.0
+  y: 84.0
+  z: 1317.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&0Charcoal Old'
+KILI:
+  x: -2317.0
+  y: 82.0
+  z: 952.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&9Kili'
+LIBRARIA:
+  x: -2096.0
+  y: 95.0
+  z: 1164.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&dLibraria'
+DRONE_TEMP:
+  x: -1845.0
+  y: 160.0
+  z: 1325.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: Drone temp.
+MEEP:
+  x: -1050.0
+  y: 85.0
+  z: 1925.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&eMeep'
+CLAY_PIT:
+  x: -1269.0
+  y: 196.0
+  z: 2233.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&l&4CLAY PIT'
+_NEWER_HOME:
+  x: -624.0
+  y: 89.0
+  z: 2424.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&a Newer Home'
+MUFFINSVILLE:
+  x: -1272.0
+  y: 85.0
+  z: 565.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&6Muffinsville'
+SPAWN:
+  x: -276.0
+  y: 85.0
+  z: 514.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&cSpawn'
+AIRAVATA:
+  x: 2370.0
+  y: 81.0
+  z: -1897.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&bAiravata'
+MINE:
+  x: 1168.0
+  y: 137.0
+  z: -1376.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&4&lMine'
+MUSHROOM:
+  x: 2609.0
+  y: 81.0
+  z: 2262.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&4&lMUSHROOM'
+THING:
+  x: 2250.0
+  y: 112.0
+  z: 1299.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&7Thing'
+NEW_CHARCOAL:
+  x: 1237.0
+  y: 85.0
+  z: 1860.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&8New Charcoal'
+OUTER_END:
+  x: 1042.0
+  y: 61.0
+  z: 55.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren_the_end
+  name: Outer End
+END_PORTAL:
+  x: -639.0
+  y: 38.0
+  z: 666.0
+  pitch: 0.0
+  yaw: 0.0
+  world: dungeons
+  name: '&5End Portal'
+TWIN_VULCANO:
+  x: 2341.0
+  y: 132.0
+  z: -1306.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Outlands1
+  name: '&8Twin Vulcano'
+TROTTERDAM:
+  x: -2453.0
+  y: 94.0
+  z: 656.0
+  pitch: 0.0
+  yaw: 0.0
+  world: Zyrren
+  name: '&6Trotterdam'
